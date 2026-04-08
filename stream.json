@@ -15,7 +15,7 @@
     "group_title": "JIO ⭕|Entertainment",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsHD.png",
     "channel_name": "Colors HD",
-    "user_agent": "Mozilla/5.0 plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0"
+    "user_agent": "plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0"
   },
   "146": {
     "kid": "https",
@@ -4035,8 +4035,8 @@
     "kid": "https",
     "key": "//keys.lrl45.workers.dev/key/1106",
     "url": "https://keys.lrl45.workers.dev/mpd/1106",
-    "group_title": "JIO ⭕|Sports",
-    "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD1.png",
+    "group_title": "TATA IPL |Afternoon ⚡",
+    "tvg_logo": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i",
     "channel_name": "Star Sports 1 HD",
     "user_agent": "plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0"
   },
@@ -4044,8 +4044,8 @@
     "kid": "https",
     "key": "//keys.lrl45.workers.dev/key/1108",
     "url": "https://keys.lrl45.workers.dev/mpd/1108",
-    "group_title": "JIO ⭕|Sports",
-    "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD1_Hindi.png",
+    "group_title": "TATA IPL |Afternoon ⚡",
+    "tvg_logo": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i",
     "channel_name": "Star Sports 1 Hindi HD",
     "user_agent": "plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0"
   },
@@ -6699,8 +6699,8 @@
     "kid": "https",
     "key": "//keys.lrl45.workers.dev/key/1650",
     "url": "https://keys.lrl45.workers.dev/mpd/1650",
-    "group_title": "JIO ⭕|Sports",
-    "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_1_Kannada.png",
+    "group_title": "TATA IPL |Afternoon ⚡",
+    "tvg_logo": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i",
     "channel_name": "Star Sports 1 Kannada",
     "user_agent": "plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0"
   },
@@ -8670,7 +8670,7 @@
     "kid": "https",
     "key": "//keys.lrl45.workers.dev/key/2145",
     "url": "https://keys.lrl45.workers.dev/mpd/2145",
-    "group_title": "JIO ⭕|Entertainment",
+    "group_title": "JIO ⭕|Kannada",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Suvarna_Plus.png",
     "channel_name": "Star Suvarna Plus",
     "user_agent": "plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0"
@@ -10839,8 +10839,8 @@
     "kid": "https",
     "key": "//keys.lrl45.workers.dev/key/3277",
     "url": "https://keys.lrl45.workers.dev/mpd/3277",
-    "group_title": "JIO ⭕|Sports",
-    "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_1_Tamil_HD.png",
+    "group_title": "TATA IPL |Afternoon ⚡",
+    "tvg_logo": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i",
     "channel_name": "Star Sports 1 Tamil HD",
     "user_agent": "plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0"
   },
@@ -10848,8 +10848,8 @@
     "kid": "https",
     "key": "//keys.lrl45.workers.dev/key/3278",
     "url": "https://keys.lrl45.workers.dev/mpd/3278",
-    "group_title": "JIO ⭕|Sports",
-    "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_1_Telugu_HD.png",
+    "group_title": "TATA IPL |Afternoon ⚡",
+    "tvg_logo": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2615/1774449982615-i",
     "channel_name": "Star Sports 1 Telugu HD",
     "user_agent": "plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0"
   },
@@ -11136,7 +11136,7 @@
     "kid": "https",
     "key": "//keys.lrl45.workers.dev/key/41439",
     "url": "https://keys.lrl45.workers.dev/mpd/41439",
-    "group_title": "JIO ⭕|Entertainment",
+    "group_title": "JIO ⭕|Telugu",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Gold.png",
     "channel_name": "Star Maa Gold",
     "user_agent": "plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0"
