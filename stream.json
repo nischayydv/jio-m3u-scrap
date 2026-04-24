@@ -368,6 +368,15 @@
     "channel_name": "SET HD",
     "user_agent": "plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0"
   },
+  "317": {
+    "kid": "https",
+    "key": "//temp.webplay.fun/jtv/key.php?id",
+    "url": "https://keys.lrl45.workers.dev/mpd/317",
+    "group_title": "JIO ⭕|Entertainment",
+    "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Jalsha_HD.png",
+    "channel_name": "Star Jalsha HD",
+    "user_agent": "plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0"
+  },
   "336": {
     "kid": "https",
     "key": "//temp.webplay.fun/jtv/key.php?id",
@@ -654,6 +663,15 @@
     "group_title": "JIO ⭕|Entertainment",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Marathi.png",
     "channel_name": "Zee Marathi",
+    "user_agent": "plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0"
+  },
+  "457": {
+    "kid": "https",
+    "key": "//temp.webplay.fun/jtv/key.php?id",
+    "url": "https://keys.lrl45.workers.dev/mpd/457",
+    "group_title": "JIO ⭕|Movies",
+    "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Jalsha_Movies_HD.png",
+    "channel_name": "Star Jalsha Movies HD",
     "user_agent": "plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0"
   },
   "459": {
@@ -10241,6 +10259,15 @@
     "channel_name": "Sony MAX1",
     "user_agent": "plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0"
   },
+  "3476": {
+    "kid": "https",
+    "key": "//temp.webplay.fun/jtv/key.php?id",
+    "url": "https://keys.lrl45.workers.dev/mpd/3476",
+    "group_title": "JIO ⭕|Entertainment",
+    "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeBanglaSonar.png",
+    "channel_name": "Zee Bangla Sonar",
+    "user_agent": "plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0"
+  },
   "4302": {
     "kid": "https",
     "key": "//temp.webplay.fun/jtv/key.php?id",
@@ -10582,14 +10609,5 @@
     "tvg_logo": "https://sund-images.sunnxt.com/194410/640x360_SunMusic_194410_d4d08876-9d23-432c-aab4-b5c70c58aaac.jpg",
     "channel_name": "Sun Music",
     "user_agent": null
-  },
-  "301972": {
-    "kid": "https",
-    "key": "//temp.webplay.fun/jtv/key.php?id",
-    "url": "https://keys.lrl45.workers.dev/mpd/301972",
-    "group_title": "JIO ⭕|Entertainment",
-    "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Jalsha_HD.png",
-    "channel_name": "Star Jalsha HD",
-    "user_agent": "plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0"
   }
 }
