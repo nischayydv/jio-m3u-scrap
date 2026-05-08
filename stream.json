@@ -1036,9 +1036,9 @@
   },
   "156": {
     "kid": "https",
-    "key": "//temp.webplay.fun/jtv/key.php?id",
-    "url": "https://keys.lrl45.workers.dev/mpd/156",
-    "group_title": "JIO ⭕|Movies",
+    "key": "//temp.webplay.fun/jtv/plkey.php?id",
+    "url": "https://tvpllive.virey40690.workers.dev/mpd/156",
+    "group_title": "JIO ⭕|TVpllive",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png",
     "channel_name": "Star Gold HD",
     "user_agent": "plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0"
@@ -1333,10 +1333,10 @@
   },
   "196": {
     "kid": "https",
-    "key": "//temp.webplay.fun/jtv/key.php?id",
-    "url": "https://keys.lrl45.workers.dev/mpd/196",
-    "group_title": "JIO ⭕|Gujarati",
-    "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsGujarati.png",
+    "key": "//temp.webplay.fun/jtv/plkey.php?id",
+    "url": "https://tvpllive.virey40690.workers.dev/mpd/196",
+    "group_title": "JIO ⭕|TVpllive",
+    "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Gujarati.png",
     "channel_name": "Colors Gujarati",
     "user_agent": "plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0"
   },
@@ -3304,9 +3304,9 @@
   },
   "482": {
     "kid": "https",
-    "key": "//temp.webplay.fun/jtv/key.php?id",
-    "url": "https://keys.lrl45.workers.dev/mpd/482",
-    "group_title": "JIO ⭕|Movies",
+    "key": "//temp.webplay.fun/jtv/plkey.php?id",
+    "url": "https://tvpllive.virey40690.workers.dev/mpd/482",
+    "group_title": "JIO ⭕|TVpllive",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex.png",
     "channel_name": "Colors Cineplex",
     "user_agent": "plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0"
@@ -5392,27 +5392,27 @@
   },
   "755": {
     "kid": "https",
-    "key": "//temp.webplay.fun/jtv/key.php?id",
-    "url": "https://keys.lrl45.workers.dev/mpd/755",
-    "group_title": "JIO ⭕|Marathi",
+    "key": "//temp.webplay.fun/jtv/plkey.php?id",
+    "url": "https://tvpllive.virey40690.workers.dev/mpd/755",
+    "group_title": "JIO ⭕|TVpllive",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Marathi_HD.png",
     "channel_name": "Colors Marathi HD",
     "user_agent": "plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0"
   },
   "756": {
     "kid": "https",
-    "key": "//temp.webplay.fun/jtv/key.php?id",
-    "url": "https://keys.lrl45.workers.dev/mpd/756",
-    "group_title": "JIO ⭕|Bengali",
+    "key": "//temp.webplay.fun/jtv/plkey.php?id",
+    "url": "https://tvpllive.virey40690.workers.dev/mpd/756",
+    "group_title": "JIO ⭕|TVpllive",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bengali_HD.png",
-    "channel_name": "Colors Bangla HD",
+    "channel_name": "Colors Bengali HD",
     "user_agent": "plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0"
   },
   "757": {
     "kid": "https",
-    "key": "//temp.webplay.fun/jtv/key.php?id",
-    "url": "https://keys.lrl45.workers.dev/mpd/757",
-    "group_title": "JIO ⭕|Kannada",
+    "key": "//temp.webplay.fun/jtv/plkey.php?id",
+    "url": "https://tvpllive.virey40690.workers.dev/mpd/757",
+    "group_title": "JIO ⭕|TVpllive",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Kannada_HD.png",
     "channel_name": "Colors Kannada HD",
     "user_agent": "plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0"
@@ -5608,10 +5608,10 @@
   },
   "785": {
     "kid": "https",
-    "key": "//temp.webplay.fun/jtv/key.php?id",
-    "url": "https://keys.lrl45.workers.dev/mpd/785",
-    "group_title": "JIO ⭕|Kannada",
-    "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsSuper.png",
+    "key": "//temp.webplay.fun/jtv/plkey.php?id",
+    "url": "https://tvpllive.virey40690.workers.dev/mpd/785",
+    "group_title": "JIO ⭕|TVpllive",
+    "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Super.png",
     "channel_name": "Colors Super",
     "user_agent": "plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0"
   },
@@ -7687,11 +7687,11 @@
   },
   "1104": {
     "kid": "https",
-    "key": "//temp.webplay.fun/jtv/key.php?id",
-    "url": "https://keys.lrl45.workers.dev/mpd/1104",
-    "group_title": "JIO ⭕|English",
-    "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_HD.png",
-    "channel_name": "Star Movies HD",
+    "key": "//temp.webplay.fun/jtv/plkey.php?id",
+    "url": "https://tvpllive.virey40690.workers.dev/mpd/1104",
+    "group_title": "JIO ⭕|TVpllive",
+    "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_TVpllive_HD.png",
+    "channel_name": "Star TVpllive HD",
     "user_agent": "plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0"
   },
   "1106": {
@@ -7723,36 +7723,36 @@
   },
   "1110": {
     "kid": "https",
-    "key": "//temp.webplay.fun/jtv/key.php?id",
-    "url": "https://keys.lrl45.workers.dev/mpd/1110",
-    "group_title": "JIO ⭕|English",
-    "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_Select_HD.png",
-    "channel_name": "Star Movies Select HD",
+    "key": "//temp.webplay.fun/jtv/plkey.php?id",
+    "url": "https://tvpllive.virey40690.workers.dev/mpd/1110",
+    "group_title": "JIO ⭕|TVpllive",
+    "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_TVpllive_Select_HD.png",
+    "channel_name": "Star TVpllive Select HD",
     "user_agent": "plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0"
   },
   "1111": {
     "kid": "https",
-    "key": "//temp.webplay.fun/jtv/key.php?id",
-    "url": "https://keys.lrl45.workers.dev/mpd/1111",
-    "group_title": "JIO ⭕|Telugu",
-    "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Movies.png",
-    "channel_name": "Maa Movies",
+    "key": "//temp.webplay.fun/jtv/plkey.php?id",
+    "url": "https://tvpllive.virey40690.workers.dev/mpd/1111",
+    "group_title": "JIO ⭕|TVpllive",
+    "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_TVpllive_HD.png",
+    "channel_name": "Star Maa TVpllive HD",
     "user_agent": "plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0"
   },
   "1112": {
     "kid": "https",
-    "key": "//temp.webplay.fun/jtv/key.php?id",
-    "url": "https://keys.lrl45.workers.dev/mpd/1112",
-    "group_title": "JIO ⭕|Telugu",
+    "key": "//temp.webplay.fun/jtv/plkey.php?id",
+    "url": "https://tvpllive.virey40690.workers.dev/mpd/1112",
+    "group_title": "JIO ⭕|TVpllive",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_HD.png",
-    "channel_name": "Maa HD",
+    "channel_name": "Star Maa HD",
     "user_agent": "plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0"
   },
   "1113": {
     "kid": "https",
-    "key": "//temp.webplay.fun/jtv/key.php?id",
-    "url": "https://keys.lrl45.workers.dev/mpd/1113",
-    "group_title": "JIO ⭕|Movies",
+    "key": "//temp.webplay.fun/jtv/plkey.php?id",
+    "url": "https://tvpllive.virey40690.workers.dev/mpd/1113",
+    "group_title": "JIO ⭕|TVpllive",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_Select_HD.png",
     "channel_name": "Star Gold Select HD",
     "user_agent": "plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0"
@@ -7775,31 +7775,49 @@
     "channel_name": "Pratham Khabar 24x7",
     "user_agent": null
   },
+  "1116": {
+    "kid": "https",
+    "key": "//temp.webplay.fun/jtv/plkey.php?id",
+    "url": "https://tvpllive.virey40690.workers.dev/mpd/1116",
+    "group_title": "JIO ⭕|TVpllive",
+    "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Plus.png",
+    "channel_name": "Star Plus",
+    "user_agent": "plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0"
+  },
   "1117": {
     "kid": "https",
-    "key": "//temp.webplay.fun/jtv/key.php?id",
-    "url": "https://keys.lrl45.workers.dev/mpd/1117",
-    "group_title": "JIO ⭕|Kannada",
+    "key": "//temp.webplay.fun/jtv/plkey.php?id",
+    "url": "https://tvpllive.virey40690.workers.dev/mpd/1117",
+    "group_title": "JIO ⭕|TVpllive",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Suvarna.png",
-    "channel_name": "Suvarna",
+    "channel_name": "Star Suvarna",
     "user_agent": "plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0"
   },
   "1119": {
     "kid": "https",
-    "key": "//temp.webplay.fun/jtv/key.php?id",
-    "url": "https://keys.lrl45.workers.dev/mpd/1119",
-    "group_title": "JIO ⭕|Movies",
+    "key": "//temp.webplay.fun/jtv/plkey.php?id",
+    "url": "https://tvpllive.virey40690.workers.dev/mpd/1119",
+    "group_title": "JIO ⭕|TVpllive",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_Select.png",
     "channel_name": "Star Gold Select",
     "user_agent": "plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0"
   },
   "1120": {
     "kid": "https",
-    "key": "//temp.webplay.fun/jtv/key.php?id",
-    "url": "https://keys.lrl45.workers.dev/mpd/1120",
-    "group_title": "JIO ⭕|Bengali",
-    "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Jalsha_Movies.png",
-    "channel_name": "Jalsha Movies",
+    "key": "//temp.webplay.fun/jtv/plkey.php?id",
+    "url": "https://tvpllive.virey40690.workers.dev/mpd/1120",
+    "group_title": "JIO ⭕|TVpllive",
+    "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Jalsha_TVpllive.png",
+    "channel_name": "Star Jalsha TVpllive",
+    "user_agent": "plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0"
+  },
+  "1121": {
+    "kid": "https",
+    "key": "//temp.webplay.fun/jtv/plkey.php?id",
+    "url": "https://tvpllive.virey40690.workers.dev/mpd/1121",
+    "group_title": "JIO ⭕|TVpllive",
+    "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Pravah.png",
+    "channel_name": "Star Pravah",
     "user_agent": "plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0"
   },
   "1122": {
@@ -7829,13 +7847,31 @@
     "channel_name": "Reporter TV",
     "user_agent": null
   },
+  "1125": {
+    "kid": "https",
+    "key": "//temp.webplay.fun/jtv/plkey.php?id",
+    "url": "https://tvpllive.virey40690.workers.dev/mpd/1125",
+    "group_title": "JIO ⭕|TVpllive",
+    "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold.png",
+    "channel_name": "Star Gold",
+    "user_agent": "plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0"
+  },
+  "1127": {
+    "kid": "https",
+    "key": "//temp.webplay.fun/jtv/plkey.php?id",
+    "url": "https://tvpllive.virey40690.workers.dev/mpd/1127",
+    "group_title": "JIO ⭕|TVpllive",
+    "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Bharat.png",
+    "channel_name": "Star Bharat",
+    "user_agent": "plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0"
+  },
   "1129": {
     "kid": "https",
-    "key": "//temp.webplay.fun/jtv/key.php?id",
-    "url": "https://keys.lrl45.workers.dev/mpd/1129",
-    "group_title": "JIO ⭕|Telugu",
-    "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Music.png",
-    "channel_name": "Maa Music",
+    "key": "//temp.webplay.fun/jtv/plkey.php?id",
+    "url": "https://tvpllive.virey40690.workers.dev/mpd/1129",
+    "group_title": "JIO ⭕|TVpllive",
+    "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_TVpllive.png",
+    "channel_name": "Star Maa TVpllive",
     "user_agent": "plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0"
   },
   "1130": {
@@ -7849,9 +7885,9 @@
   },
   "1131": {
     "kid": "https",
-    "key": "//temp.webplay.fun/jtv/key.php?id",
-    "url": "https://keys.lrl45.workers.dev/mpd/1131",
-    "group_title": "JIO ⭕|Tamil",
+    "key": "//temp.webplay.fun/jtv/plkey.php?id",
+    "url": "https://tvpllive.virey40690.workers.dev/mpd/1131",
+    "group_title": "JIO ⭕|TVpllive",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Vijay_Super.png",
     "channel_name": "Vijay Super",
     "user_agent": "plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0"
@@ -7903,11 +7939,11 @@
   },
   "1140": {
     "kid": "https",
-    "key": "//temp.webplay.fun/jtv/key.php?id",
-    "url": "https://keys.lrl45.workers.dev/mpd/1140",
-    "group_title": "JIO ⭕|Kannada",
+    "key": "//temp.webplay.fun/jtv/plkey.php?id",
+    "url": "https://tvpllive.virey40690.workers.dev/mpd/1140",
+    "group_title": "JIO ⭕|TVpllive",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Suvarna_Plus.png",
-    "channel_name": "Suvarna Plus",
+    "channel_name": "Star Suvarna Plus",
     "user_agent": "plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0"
   },
   "1141": {
@@ -7930,9 +7966,9 @@
   },
   "1143": {
     "kid": "https",
-    "key": "//temp.webplay.fun/jtv/key.php?id",
-    "url": "https://keys.lrl45.workers.dev/mpd/1143",
-    "group_title": "JIO ⭕|Entertainment",
+    "key": "//temp.webplay.fun/jtv/plkey.php?id",
+    "url": "https://tvpllive.virey40690.workers.dev/mpd/1143",
+    "group_title": "JIO ⭕|TVpllive",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Utsav.png",
     "channel_name": "Star Utsav",
     "user_agent": "plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0"
@@ -7982,11 +8018,29 @@
     "channel_name": "Asianet Movies",
     "user_agent": "plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0"
   },
+  "1154": {
+    "kid": "https",
+    "key": "//temp.webplay.fun/jtv/plkey.php?id",
+    "url": "https://tvpllive.virey40690.workers.dev/mpd/1154",
+    "group_title": "JIO ⭕|TVpllive",
+    "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_2.png",
+    "channel_name": "Star Gold 2",
+    "user_agent": "plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0"
+  },
+  "1155": {
+    "kid": "https",
+    "key": "//temp.webplay.fun/jtv/plkey.php?id",
+    "url": "https://tvpllive.virey40690.workers.dev/mpd/1155",
+    "group_title": "JIO ⭕|TVpllive",
+    "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_2_HD.png",
+    "channel_name": "Star Gold 2 HD",
+    "user_agent": "plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0"
+  },
   "1158": {
     "kid": "https",
-    "key": "//temp.webplay.fun/jtv/key.php?id",
-    "url": "https://keys.lrl45.workers.dev/mpd/1158",
-    "group_title": "JIO ⭕|English",
+    "key": "//temp.webplay.fun/jtv/plkey.php?id",
+    "url": "https://tvpllive.virey40690.workers.dev/mpd/1158",
+    "group_title": "JIO ⭕|TVpllive",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_HD.png",
     "channel_name": "Colors Infinity HD",
     "user_agent": "plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0"
@@ -8785,27 +8839,27 @@
   },
   "1324": {
     "kid": "https",
-    "key": "//temp.webplay.fun/jtv/key.php?id",
-    "url": "https://keys.lrl45.workers.dev/mpd/1324",
-    "group_title": "JIO ⭕|Gujarati",
+    "key": "//temp.webplay.fun/jtv/plkey.php?id",
+    "url": "https://tvpllive.virey40690.workers.dev/mpd/1324",
+    "group_title": "JIO ⭕|TVpllive",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Gujarati_Cinema.png",
     "channel_name": "Colors Gujarati Cinema",
     "user_agent": "plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0"
   },
   "1325": {
     "kid": "https",
-    "key": "//temp.webplay.fun/jtv/key.php?id",
-    "url": "https://keys.lrl45.workers.dev/mpd/1325",
-    "group_title": "JIO ⭕|English",
+    "key": "//temp.webplay.fun/jtv/plkey.php?id",
+    "url": "https://tvpllive.virey40690.workers.dev/mpd/1325",
+    "group_title": "JIO ⭕|TVpllive",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_SD.png",
     "channel_name": "Colors Infinity SD",
     "user_agent": "plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0"
   },
   "1326": {
     "kid": "https",
-    "key": "//temp.webplay.fun/jtv/key.php?id",
-    "url": "https://keys.lrl45.workers.dev/mpd/1326",
-    "group_title": "JIO ⭕|Marathi",
+    "key": "//temp.webplay.fun/jtv/plkey.php?id",
+    "url": "https://tvpllive.virey40690.workers.dev/mpd/1326",
+    "group_title": "JIO ⭕|TVpllive",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Marathi_SD.png",
     "channel_name": "Colors Marathi SD",
     "user_agent": "plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0"
@@ -9073,27 +9127,27 @@
   },
   "1368": {
     "kid": "https",
-    "key": "//temp.webplay.fun/jtv/key.php?id",
-    "url": "https://keys.lrl45.workers.dev/mpd/1368",
-    "group_title": "JIO ⭕|Entertainment",
+    "key": "//temp.webplay.fun/jtv/plkey.php?id",
+    "url": "https://tvpllive.virey40690.workers.dev/mpd/1368",
+    "group_title": "JIO ⭕|TVpllive",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_SD.png",
     "channel_name": "Colors SD",
     "user_agent": "plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0"
   },
   "1369": {
     "kid": "https",
-    "key": "//temp.webplay.fun/jtv/key.php?id",
-    "url": "https://keys.lrl45.workers.dev/mpd/1369",
-    "group_title": "JIO ⭕|Bengali",
+    "key": "//temp.webplay.fun/jtv/plkey.php?id",
+    "url": "https://tvpllive.virey40690.workers.dev/mpd/1369",
+    "group_title": "JIO ⭕|TVpllive",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_SD.png",
     "channel_name": "Colors Bangla SD",
     "user_agent": "plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0"
   },
   "1370": {
     "kid": "https",
-    "key": "//temp.webplay.fun/jtv/key.php?id",
-    "url": "https://keys.lrl45.workers.dev/mpd/1370",
-    "group_title": "JIO ⭕|Kannada",
+    "key": "//temp.webplay.fun/jtv/plkey.php?id",
+    "url": "https://tvpllive.virey40690.workers.dev/mpd/1370",
+    "group_title": "JIO ⭕|TVpllive",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Kannada_SD.png",
     "channel_name": "Colors Kannada SD",
     "user_agent": "plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0"
@@ -9487,10 +9541,10 @@
   },
   "1450": {
     "kid": "https",
-    "key": "//temp.webplay.fun/jtv/key.php?id",
-    "url": "https://keys.lrl45.workers.dev/mpd/1450",
-    "group_title": "JIO ⭕|Movies",
-    "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsCineplexSuperhit.png",
+    "key": "//temp.webplay.fun/jtv/plkey.php?id",
+    "url": "https://tvpllive.virey40690.workers.dev/mpd/1450",
+    "group_title": "JIO ⭕|TVpllive",
+    "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey_Cineplex.png",
     "channel_name": "Colors Cineplex Superhit",
     "user_agent": "plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0"
   },
@@ -9613,10 +9667,10 @@
   },
   "1477": {
     "kid": "https",
-    "key": "//temp.webplay.fun/jtv/key.php?id",
-    "url": "https://keys.lrl45.workers.dev/mpd/1477",
-    "group_title": "JIO ⭕|Movies",
-    "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsCineplexHD.png",
+    "key": "//temp.webplay.fun/jtv/plkey.php?id",
+    "url": "https://tvpllive.virey40690.workers.dev/mpd/1477",
+    "group_title": "JIO ⭕|TVpllive",
+    "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png",
     "channel_name": "Colors Cineplex HD",
     "user_agent": "plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0"
   },
@@ -9955,11 +10009,11 @@
   },
   "1553": {
     "kid": "https",
-    "key": "//temp.webplay.fun/jtv/key.php?id",
-    "url": "https://keys.lrl45.workers.dev/mpd/1553",
-    "group_title": "JIO ⭕|News",
-    "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/abstarnews.png",
-    "channel_name": "AB Star News",
+    "key": "//temp.webplay.fun/jtv/plkey.php?id",
+    "url": "https://tvpllive.virey40690.workers.dev/mpd/1553",
+    "group_title": "JIO ⭕|TVpllive",
+    "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ABSTAR_TVpllive.png",
+    "channel_name": "AB Star TVpllive",
     "user_agent": "plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0"
   },
   "1554": {
@@ -10063,10 +10117,10 @@
   },
   "1632": {
     "kid": "https",
-    "key": "//temp.webplay.fun/jtv/key.php?id",
-    "url": "https://keys.lrl45.workers.dev/mpd/1632",
-    "group_title": "JIO ⭕|Kannada",
-    "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsKannadaCinema.png",
+    "key": "//temp.webplay.fun/jtv/plkey.php?id",
+    "url": "https://tvpllive.virey40690.workers.dev/mpd/1632",
+    "group_title": "JIO ⭕|TVpllive",
+    "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Kannada_Cinema.png",
     "channel_name": "Colors Kannada Cinema",
     "user_agent": "plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0"
   },
@@ -10162,9 +10216,9 @@
   },
   "1657": {
     "kid": "https",
-    "key": "//temp.webplay.fun/jtv/key.php?id",
-    "url": "https://keys.lrl45.workers.dev/mpd/1657",
-    "group_title": "JIO ⭕|Bengali",
+    "key": "//temp.webplay.fun/jtv/plkey.php?id",
+    "url": "https://tvpllive.virey40690.workers.dev/mpd/1657",
+    "group_title": "JIO ⭕|TVpllive",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_Cinema.png",
     "channel_name": "Colors Bangla Cinema",
     "user_agent": "plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0"
@@ -10423,10 +10477,10 @@
   },
   "1763": {
     "kid": "https",
-    "key": "//temp.webplay.fun/jtv/key.php?id",
-    "url": "https://keys.lrl45.workers.dev/mpd/1763",
-    "group_title": "JIO ⭕|Movies",
-    "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsCineplexBollywood.png",
+    "key": "//temp.webplay.fun/jtv/plkey.php?id",
+    "url": "https://tvpllive.virey40690.workers.dev/mpd/1763",
+    "group_title": "JIO ⭕|TVpllive",
+    "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex_Bollywood.png",
     "channel_name": "Colors Cineplex Bollywood",
     "user_agent": "plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0"
   },
@@ -11355,6 +11409,15 @@
     "group_title": "JIO ⭕|English",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Wild_Earth.png",
     "channel_name": "Wild Earth",
+    "user_agent": "plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0"
+  },
+  "2732": {
+    "kid": "https",
+    "key": "//temp.webplay.fun/jtv/plkey.php?id",
+    "url": "https://tvpllive.virey40690.workers.dev/mpd/2732",
+    "group_title": "JIO ⭕|TVpllive",
+    "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Vistara_TVpllive.png",
+    "channel_name": "Vistara TVpllive",
     "user_agent": "plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0"
   },
   "2742": {
@@ -12331,27 +12394,27 @@
   },
   "3098": {
     "kid": "https",
-    "key": "//temp.webplay.fun/jtv/key.php?id",
-    "url": "https://keys.lrl45.workers.dev/mpd/3098",
-    "group_title": "JIO ⭕|Movies",
+    "key": "//temp.webplay.fun/jtv/plkey.php?id",
+    "url": "https://tvpllive.virey40690.workers.dev/mpd/3098",
+    "group_title": "JIO ⭕|TVpllive",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_Thrills.png",
     "channel_name": "Star Gold Thrills",
     "user_agent": "plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0"
   },
   "3099": {
     "kid": "https",
-    "key": "//temp.webplay.fun/jtv/key.php?id",
-    "url": "https://keys.lrl45.workers.dev/mpd/3099",
-    "group_title": "JIO ⭕|Marathi",
+    "key": "//temp.webplay.fun/jtv/plkey.php?id",
+    "url": "https://tvpllive.virey40690.workers.dev/mpd/3099",
+    "group_title": "JIO ⭕|TVpllive",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Pravah_Picture.png",
     "channel_name": "Star Pravah Picture",
     "user_agent": "plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0"
   },
   "3100": {
     "kid": "https",
-    "key": "//temp.webplay.fun/jtv/key.php?id",
-    "url": "https://keys.lrl45.workers.dev/mpd/3100",
-    "group_title": "JIO ⭕|Marathi",
+    "key": "//temp.webplay.fun/jtv/plkey.php?id",
+    "url": "https://tvpllive.virey40690.workers.dev/mpd/3100",
+    "group_title": "JIO ⭕|TVpllive",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Pravah_Picture_HD.png",
     "channel_name": "Star Pravah Picture HD",
     "user_agent": "plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0"
@@ -13258,18 +13321,18 @@
   },
   "3266": {
     "kid": "https",
-    "key": "//temp.webplay.fun/jtv/key.php?id",
-    "url": "https://keys.lrl45.workers.dev/mpd/3266",
-    "group_title": "JIO ⭕|Tamil",
+    "key": "//temp.webplay.fun/jtv/plkey.php?id",
+    "url": "https://tvpllive.virey40690.workers.dev/mpd/3266",
+    "group_title": "JIO ⭕|TVpllive",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Vijay_Super_HD.png",
     "channel_name": "Vijay Super HD",
     "user_agent": "plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0"
   },
   "3267": {
     "kid": "https",
-    "key": "//temp.webplay.fun/jtv/key.php?id",
-    "url": "https://keys.lrl45.workers.dev/mpd/3267",
-    "group_title": "JIO ⭕|Odia",
+    "key": "//temp.webplay.fun/jtv/plkey.php?id",
+    "url": "https://tvpllive.virey40690.workers.dev/mpd/3267",
+    "group_title": "JIO ⭕|TVpllive",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Kiran.png",
     "channel_name": "Star Kiran",
     "user_agent": "plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0"
@@ -13285,9 +13348,9 @@
   },
   "3269": {
     "kid": "https",
-    "key": "//temp.webplay.fun/jtv/key.php?id",
-    "url": "https://keys.lrl45.workers.dev/mpd/3269",
-    "group_title": "JIO ⭕|Tamil",
+    "key": "//temp.webplay.fun/jtv/plkey.php?id",
+    "url": "https://tvpllive.virey40690.workers.dev/mpd/3269",
+    "group_title": "JIO ⭕|TVpllive",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Vijay_Takkar.png",
     "channel_name": "Vijay Takkar",
     "user_agent": "plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0"
@@ -14722,6 +14785,42 @@
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/UIPMPentathlonWC.png",
     "channel_name": "UIPM Pentathlon World Cup",
     "user_agent": null
+  },
+  "4302": {
+    "kid": "https",
+    "key": "//temp.webplay.fun/jtv/plkey.php?id",
+    "url": "https://tvpllive.virey40690.workers.dev/mpd/4302",
+    "group_title": "JIO ⭕|TVpllive",
+    "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_TVpllive_Select.png",
+    "channel_name": "Star TVpllive Select",
+    "user_agent": "plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0"
+  },
+  "41309": {
+    "kid": "https",
+    "key": "//temp.webplay.fun/jtv/plkey.php?id",
+    "url": "https://tvpllive.virey40690.workers.dev/mpd/41309",
+    "group_title": "JIO ⭕|TVpllive",
+    "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Jalsha.png",
+    "channel_name": "Star Jalsha",
+    "user_agent": "plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0"
+  },
+  "41408": {
+    "kid": "https",
+    "key": "//temp.webplay.fun/jtv/plkey.php?id",
+    "url": "https://tvpllive.virey40690.workers.dev/mpd/41408",
+    "group_title": "JIO ⭕|TVpllive",
+    "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Maa.png",
+    "channel_name": "Star Maa",
+    "user_agent": "plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0"
+  },
+  "41439": {
+    "kid": "https",
+    "key": "//temp.webplay.fun/jtv/plkey.php?id",
+    "url": "https://tvpllive.virey40690.workers.dev/mpd/41439",
+    "group_title": "JIO ⭕|TVpllive",
+    "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Gold.png",
+    "channel_name": "Star Maa Gold",
+    "user_agent": "plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0"
   },
   "192537": {
     "kid": "0c37231880034787bce9fd3607aa09ea",
