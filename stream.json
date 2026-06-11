@@ -11,7 +11,7 @@
   "144": {
     "kid": "https",
     "key": "//keys.cloudplay.qzz.io/pl/plkey.php?id",
-    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/ColorsHD_BTS/WDVLive/index.mpd?__hdnea__=st=1781166619~exp=1781188219~acl=/bpk-tv/ColorsHD_BTS/WDVLive/*~hmac=26dd658f8325f57a886adc3f82c945db8844a3b23ceb73de74c32cea46551357",
+    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/ColorsHD_BTS/WDVLive/index.mpd?__hdnea__=st=1781184621~exp=1781206221~acl=/bpk-tv/ColorsHD_BTS/WDVLive/*~hmac=8c5389a15a4f1aa67372dfa2a6b1b88e1ce6adda829ed84ceda2fde8799ffbb4",
     "group_title": "JIO ⭕|Entertainment",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsHD.png",
     "channel_name": "Colors HD",
@@ -20,7 +20,7 @@
   "146": {
     "kid": "https",
     "key": "//keys.cloudplay.qzz.io/pl/plkey.php?id",
-    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/History_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1781166619~exp=1781188219~acl=/bpk-tv/History_HD_BTS/WDVLive/*~hmac=1530f5f89ef6c5ecdc5c9854dc0f32c2d39f26e53424c77dd2cc862dfe9f733c",
+    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/History_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1781184622~exp=1781206222~acl=/bpk-tv/History_HD_BTS/WDVLive/*~hmac=55bac8b4ce36296dccd132bc6362fd0642dd51bd84a99b7f75ecf2626b546921",
     "group_title": "JIO ⭕|Infotainment",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/History_HD.png",
     "channel_name": "History TV18 HD",
@@ -56,7 +56,7 @@
   "156": {
     "kid": "https",
     "key": "//keys.cloudplay.qzz.io/pl/plkey.php?id",
-    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Gold_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1781166619~exp=1781188219~acl=/bpk-tv/Star_Gold_HD_BTS/WDVLive/*~hmac=893f5c9e312141d6120a62d1464a53266025b8d0b9acbb1e5a33adbad8d1a681",
+    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Gold_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1781184622~exp=1781206222~acl=/bpk-tv/Star_Gold_HD_BTS/WDVLive/*~hmac=57d8987370132a0c867de997b9d2e4e0865b69da14c6008eef5dc6f3cec03a38",
     "group_title": "JIO ⭕|Movies",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png",
     "channel_name": "Star Gold HD",
@@ -182,7 +182,7 @@
   "196": {
     "kid": "https",
     "key": "//keys.cloudplay.qzz.io/pl/plkey.php?id",
-    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/ColorsGujarati_BTS/WDVLive/index.mpd?__hdnea__=st=1781166621~exp=1781188221~acl=/bpk-tv/ColorsGujarati_BTS/WDVLive/*~hmac=3844599f81f6c8a29f87281a697258d279eb7a534fb88d13989549541250e880",
+    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/ColorsGujarati_BTS/WDVLive/index.mpd?__hdnea__=st=1781184623~exp=1781206223~acl=/bpk-tv/ColorsGujarati_BTS/WDVLive/*~hmac=99eeb0cc4d286975a92eeb2f3dc5547793489ec80e3eb1e441a4505911f5f52c",
     "group_title": "JIO ⭕|Gujarati",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsGujarati.png",
     "channel_name": "Colors Gujarati",
@@ -209,7 +209,7 @@
   "204": {
     "kid": "https",
     "key": "//keys.cloudplay.qzz.io/pl/plkey.php?id",
-    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/DD_Sports_BTS/WDVLive/index.mpd?__hdnea__=st=1781166619~exp=1781188219~acl=/bpk-tv/DD_Sports_BTS/WDVLive/*~hmac=970879d3da19d925983c26db06d1bb5c58ae4fa101553fe0b944f438b0315fee",
+    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/DD_Sports_BTS/WDVLive/index.mpd?__hdnea__=st=1781184622~exp=1781206222~acl=/bpk-tv/DD_Sports_BTS/WDVLive/*~hmac=50682a213fd2ad508e8811760baf736f76c45f588890cce374031f41b17148d0",
     "group_title": "JIO ⭕|Sports",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Sports.png",
     "channel_name": "DD Sports",
@@ -335,7 +335,7 @@
   "290": {
     "kid": "https",
     "key": "//keys.cloudplay.qzz.io/pl/plkey.php?id",
-    "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/sonic_Tamil_MOB/WDVLive/index.mpd?__hdnea__=st=1781166623~exp=1781188223~acl=/*~hmac=930f249aa166a0c5a03dd5c4e177968a5371b686c3842591dce99a2f558dba5a",
+    "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/sonic_Tamil_MOB/WDVLive/index.mpd?__hdnea__=st=1781184626~exp=1781206226~acl=/*~hmac=937df16852a1d0f604d5e5343477df0e4e61511ea93607734f92f985d23bd515",
     "group_title": "JIO ⭕|Tamil",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/sonic_Tamil.png",
     "channel_name": "sonic Tamil",
@@ -353,7 +353,7 @@
   "317": {
     "kid": "https",
     "key": "//keys.cloudplay.qzz.io/pl/plkey.php?id",
-    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Jalsha_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1781166622~exp=1781188222~acl=/bpk-tv/Star_Jalsha_HD_BTS/WDVLive/*~hmac=af7b5c07c1a0c0dd2a5b7ab904716f665a979939348170c73c01a165e170cecc",
+    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Jalsha_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1781184625~exp=1781206225~acl=/bpk-tv/Star_Jalsha_HD_BTS/WDVLive/*~hmac=c7cd9df9a03c90300c4481218aafde6905c88c698f3ae5a6ffca1eeaf13aa921",
     "group_title": "JIO ⭕|Bengali",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Jalsha_HD.png",
     "channel_name": "Star Jalsha HD",
@@ -362,7 +362,7 @@
   "336": {
     "kid": "https",
     "key": "//keys.cloudplay.qzz.io/pl/plkey.php?id",
-    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Pravah_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1781166620~exp=1781188220~acl=/bpk-tv/Star_Pravah_HD_BTS/WDVLive/*~hmac=48323339e256f7655ade86bced0dbe593b5bbef252fee00d2cf737a1e273200d",
+    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Pravah_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1781184622~exp=1781206222~acl=/bpk-tv/Star_Pravah_HD_BTS/WDVLive/*~hmac=2e4929c3066ea8fcea9a900b4c3fb3de6dc5c7df517fd31f72c8654c11b6bdb4",
     "group_title": "JIO ⭕|Marathi",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Pravah_HD.png",
     "channel_name": "Star Pravah HD",
@@ -371,7 +371,7 @@
   "362": {
     "kid": "https",
     "key": "//keys.cloudplay.qzz.io/pl/plkey.php?id",
-    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Hindi_BTS/WDVLive/index.mpd?__hdnea__=st=1781166619~exp=1781188219~acl=/bpk-tv/Star_Sports_1_Hindi_BTS/WDVLive/*~hmac=a71986fe086f441903c041bc436ba682cc93d8c7074e43c4e558941c89defa9a",
+    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Hindi_BTS/WDVLive/index.mpd?__hdnea__=st=1781184622~exp=1781206222~acl=/bpk-tv/Star_Sports_1_Hindi_BTS/WDVLive/*~hmac=2007b50759fbebc0e2e269f52bb1999713089e53726bacebd4ac3d1e70c2f031",
     "group_title": "JIO ⭕|Sports",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_1_Hindi.png",
     "channel_name": "Star Sports Hindi 1",
@@ -380,7 +380,7 @@
   "368": {
     "kid": "https",
     "key": "//keys.cloudplay.qzz.io/pl/plkey.php?id",
-    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Vijay_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1781166620~exp=1781188220~acl=/bpk-tv/Star_Vijay_HD_BTS/WDVLive/*~hmac=73ccbdecc8f1e5498853e2dceab255bf1cf37f780b51048b6193c99ce443efb8",
+    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Vijay_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1781184623~exp=1781206223~acl=/bpk-tv/Star_Vijay_HD_BTS/WDVLive/*~hmac=f93f03128bc9ea8adda0767e47fb80b9fafb73a0b016204e8f4823b6978d2af3",
     "group_title": "JIO ⭕|Tamil",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Vijay_HD.png",
     "channel_name": "Star Vijay HD",
@@ -389,7 +389,7 @@
   "370": {
     "kid": "https",
     "key": "//keys.cloudplay.qzz.io/pl/plkey.php?id",
-    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Suvarna_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1781166620~exp=1781188220~acl=/bpk-tv/Suvarna_HD_BTS/WDVLive/*~hmac=b85f160b8bac2c76a4cee7b9f7274323b6db341c62553e5c4565dfeadaf04344",
+    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Suvarna_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1781184623~exp=1781206223~acl=/bpk-tv/Suvarna_HD_BTS/WDVLive/*~hmac=c96d3e840ddcf7c4136fa788d3d0f4eca2bea8b5598e5a70c8bce71ab50fcca2",
     "group_title": "JIO ⭕|Kannada",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Suvarna_HD.png",
     "channel_name": "Suvarna HD",
@@ -587,7 +587,7 @@
   "429": {
     "kid": "https",
     "key": "//keys.cloudplay.qzz.io/pl/plkey.php?id",
-    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/ColorsTamilHD_BTS/WDVLive/index.mpd?__hdnea__=st=1781166620~exp=1781188220~acl=/bpk-tv/ColorsTamilHD_BTS/WDVLive/*~hmac=3a631019680e9b169ebc3b6ebcb9a85f721d2fd5bb52e3697bef06f76c7f3cbe",
+    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/ColorsTamilHD_BTS/WDVLive/index.mpd?__hdnea__=st=1781184623~exp=1781206223~acl=/bpk-tv/ColorsTamilHD_BTS/WDVLive/*~hmac=2b5d48704c42bf1b74c07d40de912274e1093f711cbe70007dc90e9f24a6d903",
     "group_title": "JIO ⭕|Tamil",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsTamilHD.png",
     "channel_name": "Colors Tamil HD",
@@ -641,7 +641,7 @@
   "457": {
     "kid": "https",
     "key": "//keys.cloudplay.qzz.io/pl/plkey.php?id",
-    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Jalsa_Movies_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1781166622~exp=1781188222~acl=/bpk-tv/Jalsa_Movies_HD_BTS/WDVLive/*~hmac=64ee9bd02aee0ac4c685efd9b56722ff905f5e27c6b88dbbc9cf19f68d9e51de",
+    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Jalsa_Movies_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1781184625~exp=1781206225~acl=/bpk-tv/Jalsa_Movies_HD_BTS/WDVLive/*~hmac=6204d0b13929fe49f4ab30c5a706befe9ee63a4ce5481b4a8583ff5726b2d5d6",
     "group_title": "JIO ⭕|Bengali",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Jalsa_Movies_HD.png",
     "channel_name": "Jalsha Movies HD",
@@ -659,7 +659,7 @@
   "460": {
     "kid": "https",
     "key": "//keys.cloudplay.qzz.io/pl/plkey.php?id",
-    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_Select_HD_1_BTS/WDVLive/index.mpd?__hdnea__=st=1781166619~exp=1781188219~acl=/bpk-tv/Star_Sports_Select_HD_1_BTS/WDVLive/*~hmac=3e13a219ca9f693ec0500201921bbf340c4a49ab5d14a71e94dbf103d65941cc",
+    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_Select_HD_1_BTS/WDVLive/index.mpd?__hdnea__=st=1781184622~exp=1781206222~acl=/bpk-tv/Star_Sports_Select_HD_1_BTS/WDVLive/*~hmac=1730614d1c608a2d7bcc60ac9241b037a1882b710c52b752073836b7881d9a82",
     "group_title": "JIO ⭕|Sports",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_Select_HD_1.png",
     "channel_name": "Star Sports Select 1 HD",
@@ -668,7 +668,7 @@
   "461": {
     "kid": "https",
     "key": "//keys.cloudplay.qzz.io/pl/plkey.php?id",
-    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_Select_HD_2_BTS/WDVLive/index.mpd?__hdnea__=st=1781166619~exp=1781188219~acl=/bpk-tv/Star_Sports_Select_HD_2_BTS/WDVLive/*~hmac=e0aed043671a98e9c15bb4a07534a9f7e5fc4e6839432bb4e209439a6701b487",
+    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_Select_HD_2_BTS/WDVLive/index.mpd?__hdnea__=st=1781184622~exp=1781206222~acl=/bpk-tv/Star_Sports_Select_HD_2_BTS/WDVLive/*~hmac=b663c29223d8630a3de821319cd6ae5ecfcb575b617e6a8f43f65c1c75d67216",
     "group_title": "JIO ⭕|Sports",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_Select_HD_2.png",
     "channel_name": "Star Sports Select 2 HD",
@@ -776,7 +776,7 @@
   "482": {
     "kid": "https",
     "key": "//keys.cloudplay.qzz.io/pl/plkey.php?id",
-    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Colors_Cineplex_BTS/WDVLive/index.mpd?__hdnea__=st=1781166619~exp=1781188219~acl=/bpk-tv/Colors_Cineplex_BTS/WDVLive/*~hmac=eebe881e78d12fb49117eab7aad793b1172dcdec5dd10d818b2bc0342c3ca70a",
+    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Colors_Cineplex_BTS/WDVLive/index.mpd?__hdnea__=st=1781184622~exp=1781206222~acl=/bpk-tv/Colors_Cineplex_BTS/WDVLive/*~hmac=d27e6b7eed30c1891b5c75bb910b9a28121c6b82bc5e53e564efb44a60d13078",
     "group_title": "JIO ⭕|Movies",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex.png",
     "channel_name": "Colors Cineplex",
@@ -1406,7 +1406,7 @@
   "577": {
     "kid": "https",
     "key": "//keys.cloudplay.qzz.io/pl/plkey.php?id",
-    "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/History_18_Telugu_MOB/WDVLive/index.mpd?__hdnea__=st=1781166623~exp=1781188223~acl=/*~hmac=930f249aa166a0c5a03dd5c4e177968a5371b686c3842591dce99a2f558dba5a",
+    "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/History_18_Telugu_MOB/WDVLive/index.mpd?__hdnea__=st=1781184626~exp=1781206226~acl=/*~hmac=937df16852a1d0f604d5e5343477df0e4e61511ea93607734f92f985d23bd515",
     "group_title": "JIO ⭕|Telugu",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Telugu.png",
     "channel_name": "History TV18 HD Telugu",
@@ -1415,7 +1415,7 @@
   "578": {
     "kid": "https",
     "key": "//keys.cloudplay.qzz.io/pl/plkey.php?id",
-    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/History_18_Hindi_BTS/WDVLive/index.mpd?__hdnea__=st=1781166620~exp=1781188220~acl=/bpk-tv/History_18_Hindi_BTS/WDVLive/*~hmac=15a13de3775671355a8968bf12a43475f0e29be857f7681a38f4268139395378",
+    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/History_18_Hindi_BTS/WDVLive/index.mpd?__hdnea__=st=1781184622~exp=1781206222~acl=/bpk-tv/History_18_Hindi_BTS/WDVLive/*~hmac=3470360a28430856b28f7b8c2faca2931df87980ad2118c3cd8d3c1f62376b79",
     "group_title": "JIO ⭕|Infotainment",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Hindi.png",
     "channel_name": "History TV18 HD Hindi",
@@ -1424,7 +1424,7 @@
   "579": {
     "kid": "https",
     "key": "//keys.cloudplay.qzz.io/pl/plkey.php?id",
-    "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/History_18_Tamil_MOB/WDVLive/index.mpd?__hdnea__=st=1781166623~exp=1781188223~acl=/*~hmac=930f249aa166a0c5a03dd5c4e177968a5371b686c3842591dce99a2f558dba5a",
+    "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/History_18_Tamil_MOB/WDVLive/index.mpd?__hdnea__=st=1781184626~exp=1781206226~acl=/*~hmac=937df16852a1d0f604d5e5343477df0e4e61511ea93607734f92f985d23bd515",
     "group_title": "JIO ⭕|Tamil",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Tamil.png",
     "channel_name": "History TV18 HD Tamil",
@@ -2621,7 +2621,7 @@
   "755": {
     "kid": "https",
     "key": "//keys.cloudplay.qzz.io/pl/plkey.php?id",
-    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Colors_Marathi_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1781166620~exp=1781188220~acl=/bpk-tv/Colors_Marathi_HD_BTS/WDVLive/*~hmac=6a40760f1600ca34275e925a9480efc6577fd6bf164575b20371c06ab2e03e9d",
+    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Colors_Marathi_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1781184622~exp=1781206222~acl=/bpk-tv/Colors_Marathi_HD_BTS/WDVLive/*~hmac=9baae1be4d6dc35db95ddb77de1c0d002c69aa2107ca3746238a53ca8fed7bb8",
     "group_title": "JIO ⭕|Marathi",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Marathi_HD.png",
     "channel_name": "Colors Marathi HD",
@@ -2630,7 +2630,7 @@
   "756": {
     "kid": "https",
     "key": "//keys.cloudplay.qzz.io/pl/plkey.php?id",
-    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Colors_Bengali_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1781166622~exp=1781188222~acl=/bpk-tv/Colors_Bengali_HD_BTS/WDVLive/*~hmac=e3ff0d05d88558afc25e5fcec0abb8b3df0d6739cdb138608d4b7316f8440fa4",
+    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Colors_Bengali_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1781184625~exp=1781206225~acl=/bpk-tv/Colors_Bengali_HD_BTS/WDVLive/*~hmac=29c03cc9a22820cbb71eaaea3d1473f715fbcf8ee68e3ad919da525a864eb7b4",
     "group_title": "JIO ⭕|Bengali",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bengali_HD.png",
     "channel_name": "Colors Bangla HD",
@@ -2639,7 +2639,7 @@
   "757": {
     "kid": "https",
     "key": "//keys.cloudplay.qzz.io/pl/plkey.php?id",
-    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Colors_Kannada_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1781166620~exp=1781188220~acl=/bpk-tv/Colors_Kannada_HD_BTS/WDVLive/*~hmac=25c8a63ccf8ccd7effe0b1067fbda1cd7c4af4159da7b241776ed9dc1265a91d",
+    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Colors_Kannada_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1781184623~exp=1781206223~acl=/bpk-tv/Colors_Kannada_HD_BTS/WDVLive/*~hmac=6f906d78456e5c75dd65d9b067290d41ead7d5a74ff61485287fe830f3d291e6",
     "group_title": "JIO ⭕|Kannada",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Kannada_HD.png",
     "channel_name": "Colors Kannada HD",
@@ -2837,7 +2837,7 @@
   "785": {
     "kid": "https",
     "key": "//keys.cloudplay.qzz.io/pl/plkey.php?id",
-    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/ColorsSuper_BTS/WDVLive/index.mpd?__hdnea__=st=1781166620~exp=1781188220~acl=/bpk-tv/ColorsSuper_BTS/WDVLive/*~hmac=2ef61fbcdb3cc80b538b0d93e27c7fe1b24d58125218b1c52da2a80ea4afec70",
+    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/ColorsSuper_BTS/WDVLive/index.mpd?__hdnea__=st=1781184623~exp=1781206223~acl=/bpk-tv/ColorsSuper_BTS/WDVLive/*~hmac=687699465304f2e4c898e581c9fc52b8ac53efc421fe58b6d03ee483e080f2a6",
     "group_title": "JIO ⭕|Kannada",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsSuper.png",
     "channel_name": "Colors Super",
@@ -2999,7 +2999,7 @@
   "815": {
     "kid": "https",
     "key": "//keys.cloudplay.qzz.io/pl/plkey.php?id",
-    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/sonic_Hindi_BTS/WDVLive/index.mpd?__hdnea__=st=1781166619~exp=1781188219~acl=/bpk-tv/sonic_Hindi_BTS/WDVLive/*~hmac=d058340f7a98ad4ab1773d096a98540dc6d8f27f48b79e6ab955009dd7cc4e89",
+    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/sonic_Hindi_BTS/WDVLive/index.mpd?__hdnea__=st=1781184622~exp=1781206222~acl=/bpk-tv/sonic_Hindi_BTS/WDVLive/*~hmac=c00844d19ac7f980890f395970212c655422fbec1abc55147b4f84e19dd21888",
     "group_title": "JIO ⭕|Kids",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/sonic_Hindi.png",
     "channel_name": "Sonic Hindi",
@@ -3287,7 +3287,7 @@
   "875": {
     "kid": "https",
     "key": "//keys.cloudplay.qzz.io/pl/plkey.php?id",
-    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Dsports_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1781166619~exp=1781188219~acl=/bpk-tv/Dsports_HD_BTS/WDVLive/*~hmac=cbbf1b062c3a56ff3471ffa6c5392fd46288dde82c843fe33850f2a74eac4473",
+    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Dsports_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1781184622~exp=1781206222~acl=/bpk-tv/Dsports_HD_BTS/WDVLive/*~hmac=8da5a3c6f03d1e919f53e0f1634fd51fedf611447d5878d268d95b6f75887ba0",
     "group_title": "JIO ⭕|Sports",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Dsports_HD.png",
     "channel_name": "Eurosport HD",
@@ -3368,7 +3368,7 @@
   "889": {
     "kid": "https",
     "key": "//keys.cloudplay.qzz.io/pl/plkey.php?id",
-    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Jio_Sports_BTS/WDVLive/index.mpd?__hdnea__=st=1781166619~exp=1781188219~acl=/bpk-tv/Jio_Sports_BTS/WDVLive/*~hmac=b54c0123a9a582902ef372eab5acb8aebd723962fa71986a4efbaf1dff72bf94",
+    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Jio_Sports_BTS/WDVLive/index.mpd?__hdnea__=st=1781184622~exp=1781206222~acl=/bpk-tv/Jio_Sports_BTS/WDVLive/*~hmac=ae4c16422a3a9d6d9222c09311116b99c9c8519a7117ca9d86f7e1adb0eb216c",
     "group_title": "JIO ⭕|Sports",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Sports.png",
     "channel_name": "Jio Sports HD",
@@ -3584,7 +3584,7 @@
   "931": {
     "kid": "https",
     "key": "//keys.cloudplay.qzz.io/pl/plkey.php?id",
-    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Bharat_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1781166619~exp=1781188219~acl=/bpk-tv/Star_Bharat_HD_BTS/WDVLive/*~hmac=62ac8a09abdd6f91a4604ee39e8cd20c13aeb674568e2489ea5ef41b6e1724af",
+    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Bharat_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1781184621~exp=1781206221~acl=/bpk-tv/Star_Bharat_HD_BTS/WDVLive/*~hmac=9af661f241f1038a6ee7f1c5c8a7958ad97958351adab5f9afa259d072390691",
     "group_title": "JIO ⭕|Entertainment",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Bharat_HD.png",
     "channel_name": "Star Bharat HD",
@@ -4223,7 +4223,7 @@
   "1104": {
     "kid": "https",
     "key": "//keys.cloudplay.qzz.io/pl/plkey.php?id",
-    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/StarMoviesHD_BTS/WDVLive/index.mpd?__hdnea__=st=1781166619~exp=1781188219~acl=/bpk-tv/StarMoviesHD_BTS/WDVLive/*~hmac=91638f3d5034eceec97936dfb284a5c72957e777e758cf9bd6c6a5b1ef5f4e3e",
+    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/StarMoviesHD_BTS/WDVLive/index.mpd?__hdnea__=st=1781184622~exp=1781206222~acl=/bpk-tv/StarMoviesHD_BTS/WDVLive/*~hmac=c8aef4c8f4264c4cb6b9f4f2cc1bc03132a76630164b27cf4601ff15e22fe9f8",
     "group_title": "JIO ⭕|English Movies",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_HD.png",
     "channel_name": "Star Movies HD",
@@ -4232,7 +4232,7 @@
   "1106": {
     "kid": "https",
     "key": "//keys.cloudplay.qzz.io/pl/plkey.php?id",
-    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_BTS/WDVLive/index.mpd?__hdnea__=st=1781166619~exp=1781188219~acl=/bpk-tv/Star_Sports_HD1_BTS/WDVLive/*~hmac=55e039b99cbfef5dd2e1907fc9f425e8705067b5a970e0a1d3d07275b3fce943",
+    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_BTS/WDVLive/index.mpd?__hdnea__=st=1781184622~exp=1781206222~acl=/bpk-tv/Star_Sports_HD1_BTS/WDVLive/*~hmac=f5e1a33541ec3205cdee8688e3b3e5b7a62afb325163f612160951f3ca93848a",
     "group_title": "JIO ⭕|Sports",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD1.png",
     "channel_name": "Star Sports 1 HD",
@@ -4241,7 +4241,7 @@
   "1108": {
     "kid": "https",
     "key": "//keys.cloudplay.qzz.io/pl/plkey.php?id",
-    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/index.mpd?__hdnea__=st=1781166619~exp=1781188219~acl=/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/*~hmac=ec2080c4ef671ca90562dde1c22a5b13979458b56911576a55d9eff90339f8b4",
+    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/index.mpd?__hdnea__=st=1781184622~exp=1781206222~acl=/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/*~hmac=59a2262145372bfdb2a840acc51a976a98f8a5ed4c3fc6cfb63a3ace9070007c",
     "group_title": "JIO ⭕|Sports",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD1_Hindi.png",
     "channel_name": "Star Sports 1 HD Hindi",
@@ -4250,7 +4250,7 @@
   "1109": {
     "kid": "https",
     "key": "//keys.cloudplay.qzz.io/pl/plkey.php?id",
-    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD2_BTS/WDVLive/index.mpd?__hdnea__=st=1781166619~exp=1781188219~acl=/bpk-tv/Star_Sports_HD2_BTS/WDVLive/*~hmac=271a3da0bb687b155a72940b5ef8a2207ea11adef7d4b02483799060f97b277a",
+    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD2_BTS/WDVLive/index.mpd?__hdnea__=st=1781184622~exp=1781206222~acl=/bpk-tv/Star_Sports_HD2_BTS/WDVLive/*~hmac=8984d853e436151b008651025e9c6a939cd9ae1ce46aa7e78fd548a6ac7185b4",
     "group_title": "JIO ⭕|Sports",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD2.png",
     "channel_name": "Star Sports 2 HD",
@@ -4259,7 +4259,7 @@
   "1110": {
     "kid": "https",
     "key": "//keys.cloudplay.qzz.io/pl/plkey.php?id",
-    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Movies_Select_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1781166619~exp=1781188219~acl=/bpk-tv/Star_Movies_Select_HD_BTS/WDVLive/*~hmac=5a152a0aa1d417b08286504800c5771eb41725edb714666afd0b2eda307fb870",
+    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Movies_Select_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1781184622~exp=1781206222~acl=/bpk-tv/Star_Movies_Select_HD_BTS/WDVLive/*~hmac=0b8be00334f4bc77c0b75ded6c862cce0ef969ca991d2e81ce72583d079c7c27",
     "group_title": "JIO ⭕|English Movies",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_Select_HD.png",
     "channel_name": "Star Movies Select HD",
@@ -4268,7 +4268,7 @@
   "1111": {
     "kid": "https",
     "key": "//keys.cloudplay.qzz.io/pl/plkey.php?id",
-    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Maa_Movies_BTS/WDVLive/index.mpd?__hdnea__=st=1781166620~exp=1781188220~acl=/bpk-tv/Maa_Movies_BTS/WDVLive/*~hmac=a18135cfb2a11806d5308f2f12910e665cb1f723916a492084d797908e39f5bd",
+    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Maa_Movies_BTS/WDVLive/index.mpd?__hdnea__=st=1781184622~exp=1781206222~acl=/bpk-tv/Maa_Movies_BTS/WDVLive/*~hmac=39c46021421104d133c6a841e563262df3ecc540fcd1985e6e26565f170c5d64",
     "group_title": "JIO ⭕|Telugu",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Movies.png",
     "channel_name": "Star Maa Movies",
@@ -4277,7 +4277,7 @@
   "1112": {
     "kid": "https",
     "key": "//keys.cloudplay.qzz.io/pl/plkey.php?id",
-    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Maa_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1781166620~exp=1781188220~acl=/bpk-tv/Maa_HD_BTS/WDVLive/*~hmac=8e8f63add0d3d29faff91f55750e95f03e7637098de1ed55c4782d65c6850874",
+    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Maa_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1781184622~exp=1781206222~acl=/bpk-tv/Maa_HD_BTS/WDVLive/*~hmac=936de477cb1234c776b3d26a704bf8934eedff5b9c3f2ed46f3a15543dceb013",
     "group_title": "JIO ⭕|Telugu",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_HD.png",
     "channel_name": "Star Maa HD",
@@ -4286,7 +4286,7 @@
   "1113": {
     "kid": "https",
     "key": "//keys.cloudplay.qzz.io/pl/plkey.php?id",
-    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Gold_Select_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1781166619~exp=1781188219~acl=/bpk-tv/Star_Gold_Select_HD_BTS/WDVLive/*~hmac=6dcf422b43c338e61a9f370c3e2438f14bfcfd82019baaecc9bbf239777f43ed",
+    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Gold_Select_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1781184622~exp=1781206222~acl=/bpk-tv/Star_Gold_Select_HD_BTS/WDVLive/*~hmac=7e79bc2d86d05fadbabb4808ce68d624ce4fd23594acc790bd9c9039813e9c57",
     "group_title": "JIO ⭕|Movies",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_Select_HD.png",
     "channel_name": "Star Gold Select HD",
@@ -4295,7 +4295,7 @@
   "1114": {
     "kid": "https",
     "key": "//keys.cloudplay.qzz.io/pl/plkey.php?id",
-    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_Select_2_BTS/WDVLive/index.mpd?__hdnea__=st=1781166619~exp=1781188219~acl=/bpk-tv/Star_Sports_Select_2_BTS/WDVLive/*~hmac=4a289b59f0b533037a8e6f51f48b4caf6da521fe77da088ce7642601ed583af5",
+    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_Select_2_BTS/WDVLive/index.mpd?__hdnea__=st=1781184622~exp=1781206222~acl=/bpk-tv/Star_Sports_Select_2_BTS/WDVLive/*~hmac=ae13dd7bcccf16a9174a142810b27f66cc9b6ea0b3ae3fe36336f6a21c48d1ae",
     "group_title": "JIO ⭕|Sports",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_Select_2.png",
     "channel_name": "Star Sports Select 2",
@@ -4304,7 +4304,7 @@
   "1115": {
     "kid": "https",
     "key": "//keys.cloudplay.qzz.io/pl/plkey.php?id",
-    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Movies_BTS/WDVLive/index.mpd?__hdnea__=st=1781166619~exp=1781188219~acl=/bpk-tv/Star_Movies_BTS/WDVLive/*~hmac=c1642b0bcfd26841dbad640352a27fdce1f40f1bfa2248cd236966ebf89f1aca",
+    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Movies_BTS/WDVLive/index.mpd?__hdnea__=st=1781184622~exp=1781206222~acl=/bpk-tv/Star_Movies_BTS/WDVLive/*~hmac=72aafb79d6b345ec831cb192962ccfcb1b7990a9f0b19fd62a8e85302315c5ae",
     "group_title": "JIO ⭕|English Movies",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies.png",
     "channel_name": "Star Movies",
@@ -4313,7 +4313,7 @@
   "1116": {
     "kid": "https",
     "key": "//keys.cloudplay.qzz.io/pl/plkey.php?id",
-    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Plus_BTS/WDVLive/index.mpd?__hdnea__=st=1781166619~exp=1781188219~acl=/bpk-tv/Star_Plus_BTS/WDVLive/*~hmac=d9b0049a2afbe33f59f5348c6a9356f45784e127b581b292c4293af417f00603",
+    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Plus_BTS/WDVLive/index.mpd?__hdnea__=st=1781184621~exp=1781206221~acl=/bpk-tv/Star_Plus_BTS/WDVLive/*~hmac=9629b98fce04877a5cc3a0ccc266d6d583e158b80246944a85e270e3e5ac6c7b",
     "group_title": "JIO ⭕|Entertainment",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Plus.png",
     "channel_name": "Star Plus",
@@ -4322,7 +4322,7 @@
   "1117": {
     "kid": "https",
     "key": "//keys.cloudplay.qzz.io/pl/plkey.php?id",
-    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Suvarna_BTS/WDVLive/index.mpd?__hdnea__=st=1781166620~exp=1781188220~acl=/bpk-tv/Suvarna_BTS/WDVLive/*~hmac=73b3dbe82ad007baeea243c9080724fbb2da9438ba902001e6ad7b713a0b00fe",
+    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Suvarna_BTS/WDVLive/index.mpd?__hdnea__=st=1781184623~exp=1781206223~acl=/bpk-tv/Suvarna_BTS/WDVLive/*~hmac=9b84d81da022d79b83b7ba370a15afddd22ed41d30842e7f30af72d9df600bb9",
     "group_title": "JIO ⭕|Kannada",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Suvarna.png",
     "channel_name": "Suvarna",
@@ -4340,7 +4340,7 @@
   "1119": {
     "kid": "https",
     "key": "//keys.cloudplay.qzz.io/pl/plkey.php?id",
-    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Gold_Select_BTS/WDVLive/index.mpd?__hdnea__=st=1781166619~exp=1781188219~acl=/bpk-tv/Star_Gold_Select_BTS/WDVLive/*~hmac=4887d68e5f0750d53063ed82e199d77844cc0ea05f28c15422c9679b7550da92",
+    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Gold_Select_BTS/WDVLive/index.mpd?__hdnea__=st=1781184622~exp=1781206222~acl=/bpk-tv/Star_Gold_Select_BTS/WDVLive/*~hmac=1245e424cb95ea75b1466818f1b70445f68fc32516fe99c04ed6ba734f36c96e",
     "group_title": "JIO ⭕|Movies",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_Select.png",
     "channel_name": "Star Gold Select",
@@ -4349,7 +4349,7 @@
   "1120": {
     "kid": "https",
     "key": "//keys.cloudplay.qzz.io/pl/plkey.php?id",
-    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Jalsha_Movies_BTS/WDVLive/index.mpd?__hdnea__=st=1781166622~exp=1781188222~acl=/bpk-tv/Jalsha_Movies_BTS/WDVLive/*~hmac=c1532b3136765b2b0650d2601cfe4c99042a53b88dd66fd657a313ad1ea21aef",
+    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Jalsha_Movies_BTS/WDVLive/index.mpd?__hdnea__=st=1781184625~exp=1781206225~acl=/bpk-tv/Jalsha_Movies_BTS/WDVLive/*~hmac=42bf4dc599b3798325aaf51f17acc8f131ceffaf1ac2a4ff2e34fbd481053ea7",
     "group_title": "JIO ⭕|Bengali",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Jalsha_Movies.png",
     "channel_name": "Jalsha Movies",
@@ -4358,7 +4358,7 @@
   "1121": {
     "kid": "https",
     "key": "//keys.cloudplay.qzz.io/pl/plkey.php?id",
-    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Pravah_BTS/WDVLive/index.mpd?__hdnea__=st=1781166620~exp=1781188220~acl=/bpk-tv/Star_Pravah_BTS/WDVLive/*~hmac=0baf5980b9f9f4b8e7d67a161a7b72fe838b64daaf84a670c72d6715df08abb8",
+    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Pravah_BTS/WDVLive/index.mpd?__hdnea__=st=1781184622~exp=1781206222~acl=/bpk-tv/Star_Pravah_BTS/WDVLive/*~hmac=a69c879708bb03d5c96ab7f8a6426bb11716da012ed86086c94dd75ca2746700",
     "group_title": "JIO ⭕|Marathi",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Pravah.png",
     "channel_name": "Star Pravah",
@@ -4367,7 +4367,7 @@
   "1122": {
     "kid": "https",
     "key": "//keys.cloudplay.qzz.io/pl/plkey.php?id",
-    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_2_Kannada_BTS/WDVLive/index.mpd?__hdnea__=st=1781166620~exp=1781188220~acl=/bpk-tv/Star_Sports_2_Kannada_BTS/WDVLive/*~hmac=d21ec2335e5c789488b32e639afa87818ef6af1d2c2dd341328cee7c701bdd53",
+    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_2_Kannada_BTS/WDVLive/index.mpd?__hdnea__=st=1781184623~exp=1781206223~acl=/bpk-tv/Star_Sports_2_Kannada_BTS/WDVLive/*~hmac=8916b5abc88138847c0a5c2705482c812b85474f1bc0572a0c6753b7c964506b",
     "group_title": "JIO ⭕|Kannada",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_2_Kannada.png",
     "channel_name": "Star Sports 2 Kannada",
@@ -4376,7 +4376,7 @@
   "1123": {
     "kid": "https",
     "key": "//keys.cloudplay.qzz.io/pl/plkey.php?id",
-    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_Select_1_BTS/WDVLive/index.mpd?__hdnea__=st=1781166619~exp=1781188219~acl=/bpk-tv/Star_Sports_Select_1_BTS/WDVLive/*~hmac=0c209f1839c264910955b8c536e108604c761206dc504f8d5449377f420d47ba",
+    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_Select_1_BTS/WDVLive/index.mpd?__hdnea__=st=1781184622~exp=1781206222~acl=/bpk-tv/Star_Sports_Select_1_BTS/WDVLive/*~hmac=76f1a093db1b79a7c319bdb1b8ebe36788b3a6b1e3589632d2271e57fcda1989",
     "group_title": "JIO ⭕|Sports",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_Select_1.png",
     "channel_name": "Star Sports Select 1",
@@ -4385,7 +4385,7 @@
   "1124": {
     "kid": "https",
     "key": "//keys.cloudplay.qzz.io/pl/plkey.php?id",
-    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Tamil_BTS/WDVLive/index.mpd?__hdnea__=st=1781166620~exp=1781188220~acl=/bpk-tv/Star_Sports_1_Tamil_BTS/WDVLive/*~hmac=5825ca4363b490fc531026a89017e55104de3dc703448bbc916f6210c5a1d92d",
+    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Tamil_BTS/WDVLive/index.mpd?__hdnea__=st=1781184623~exp=1781206223~acl=/bpk-tv/Star_Sports_1_Tamil_BTS/WDVLive/*~hmac=15dee70fd0803f980f32aaa76c6efd8b1ae0501615601bdc30da2d6f839a801b",
     "group_title": "JIO ⭕|Tamil",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_1_Tamil.png",
     "channel_name": "Star Sports 1 Tamil",
@@ -4394,7 +4394,7 @@
   "1125": {
     "kid": "https",
     "key": "//keys.cloudplay.qzz.io/pl/plkey.php?id",
-    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Gold_BTS/WDVLive/index.mpd?__hdnea__=st=1781166619~exp=1781188219~acl=/bpk-tv/Star_Gold_BTS/WDVLive/*~hmac=c65df8799fc5845dac019e208142f3178a37c3b519294aa863fefb8814f5fbc4",
+    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Gold_BTS/WDVLive/index.mpd?__hdnea__=st=1781184622~exp=1781206222~acl=/bpk-tv/Star_Gold_BTS/WDVLive/*~hmac=be6a70603995591998299606f4d0474978ebc7d540e225591eb13cab94deee4c",
     "group_title": "JIO ⭕|Movies",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold.png",
     "channel_name": "Star Gold",
@@ -4412,7 +4412,7 @@
   "1127": {
     "kid": "https",
     "key": "//keys.cloudplay.qzz.io/pl/plkey.php?id",
-    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Bharat_BTS/WDVLive/index.mpd?__hdnea__=st=1781166619~exp=1781188219~acl=/bpk-tv/Star_Bharat_BTS/WDVLive/*~hmac=149a05280f72650c4f0a09c0bffb69589fb353c8c42780709da62f9947e9c872",
+    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Bharat_BTS/WDVLive/index.mpd?__hdnea__=st=1781184621~exp=1781206221~acl=/bpk-tv/Star_Bharat_BTS/WDVLive/*~hmac=1791b9b1047f30fcdd63779689013ac34b64706203b7e85a73d5c19d175ff36e",
     "group_title": "JIO ⭕|Entertainment",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Bharat.png",
     "channel_name": "Star Bharat",
@@ -4421,7 +4421,7 @@
   "1129": {
     "kid": "https",
     "key": "//keys.cloudplay.qzz.io/pl/plkey.php?id",
-    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Maa_Music_BTS/WDVLive/index.mpd?__hdnea__=st=1781166620~exp=1781188220~acl=/bpk-tv/Maa_Music_BTS/WDVLive/*~hmac=ab2dc34fcc5a1a83675bbcd48176e9297b5eebaa13f9915d48e306e3c238ab97",
+    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Maa_Music_BTS/WDVLive/index.mpd?__hdnea__=st=1781184622~exp=1781206222~acl=/bpk-tv/Maa_Music_BTS/WDVLive/*~hmac=ddde28778a36fc85994afe42b16cb16d99d96be0f1150695db03a7b85c9a04ba",
     "group_title": "JIO ⭕|Telugu",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Music.png",
     "channel_name": "Star Maa Music",
@@ -4430,7 +4430,7 @@
   "1130": {
     "kid": "https",
     "key": "//keys.cloudplay.qzz.io/pl/plkey.php?id",
-    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Vijay_BTS/WDVLive/index.mpd?__hdnea__=st=1781166620~exp=1781188220~acl=/bpk-tv/Star_Vijay_BTS/WDVLive/*~hmac=4bb3618bbdabc88ed12d5383f1a9406fe4b9b74b4ae34a0a26cb5946ab0ab12a",
+    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Vijay_BTS/WDVLive/index.mpd?__hdnea__=st=1781184623~exp=1781206223~acl=/bpk-tv/Star_Vijay_BTS/WDVLive/*~hmac=8f9a3ee97bd3342338de036f97e6b0a848a5cb2e0a220857d5d745baa2b9f629",
     "group_title": "JIO ⭕|Tamil",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Vijay.png",
     "channel_name": "Star Vijay",
@@ -4439,7 +4439,7 @@
   "1131": {
     "kid": "https",
     "key": "//keys.cloudplay.qzz.io/pl/plkey.php?id",
-    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Vijay_Super_BTS/WDVLive/index.mpd?__hdnea__=st=1781166620~exp=1781188220~acl=/bpk-tv/Vijay_Super_BTS/WDVLive/*~hmac=74b42382a5a6d3203a8c89ac2fbc1084c4bc3ddb972f27d81543b94db8cae2ce",
+    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Vijay_Super_BTS/WDVLive/index.mpd?__hdnea__=st=1781184623~exp=1781206223~acl=/bpk-tv/Vijay_Super_BTS/WDVLive/*~hmac=fe54252d086410770a5a0b97e3e504e732982fd50369a7ae1b993db170df9626",
     "group_title": "JIO ⭕|Tamil",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Vijay_Super.png",
     "channel_name": "Vijay Super",
@@ -4448,7 +4448,7 @@
   "1132": {
     "kid": "https",
     "key": "//keys.cloudplay.qzz.io/pl/plkey.php?id",
-    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Plus_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1781166619~exp=1781188219~acl=/bpk-tv/Star_Plus_HD_BTS/WDVLive/*~hmac=b39e1afd6af3266b8eb4e41cfb329898aa6b0b5e73dec8a2f539a1636cb557e1",
+    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Plus_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1781184621~exp=1781206221~acl=/bpk-tv/Star_Plus_HD_BTS/WDVLive/*~hmac=697d6652f4a5173b2795abda6d402ef4dbed00a535cd8800e6fd052e54dda622",
     "group_title": "JIO ⭕|Entertainment",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Plus_HD.png",
     "channel_name": "Star Plus HD",
@@ -4457,7 +4457,7 @@
   "1136": {
     "kid": "https",
     "key": "//keys.cloudplay.qzz.io/pl/plkey.php?id",
-    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Utsav_Movies_BTS/WDVLive/index.mpd?__hdnea__=st=1781166619~exp=1781188219~acl=/bpk-tv/Star_Utsav_Movies_BTS/WDVLive/*~hmac=c7c8730846e573f1dd9f1c20dd99c101ffd573aa7a1d4f382c48bc0ee27f0495",
+    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Utsav_Movies_BTS/WDVLive/index.mpd?__hdnea__=st=1781184622~exp=1781206222~acl=/bpk-tv/Star_Utsav_Movies_BTS/WDVLive/*~hmac=8b30c5020ffe9493fd4dbffd9b4a675051a15b69efb68b681b768689bda9a1c0",
     "group_title": "JIO ⭕|Movies",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Utsav_Movies.png",
     "channel_name": "Star Utsav Movies",
@@ -4493,7 +4493,7 @@
   "1140": {
     "kid": "https",
     "key": "//keys.cloudplay.qzz.io/pl/plkey.php?id",
-    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Suvarna_Plus_BTS/WDVLive/index.mpd?__hdnea__=st=1781166620~exp=1781188220~acl=/bpk-tv/Suvarna_Plus_BTS/WDVLive/*~hmac=656469a01a628222316f4e5adb0bb7c6231b64e7deae4cc343eceb280d474012",
+    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Suvarna_Plus_BTS/WDVLive/index.mpd?__hdnea__=st=1781184623~exp=1781206223~acl=/bpk-tv/Suvarna_Plus_BTS/WDVLive/*~hmac=40e56afc7cc569443b69b61ae626dd75e2198fae26c25e1691edc2b9bd248f90",
     "group_title": "JIO ⭕|Kannada",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Suvarna_Plus.png",
     "channel_name": "Suvarna Plus",
@@ -4502,7 +4502,7 @@
   "1141": {
     "kid": "https",
     "key": "//keys.cloudplay.qzz.io/pl/plkey.php?id",
-    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_2_BTS/WDVLive/index.mpd?__hdnea__=st=1781166619~exp=1781188219~acl=/bpk-tv/Star_Sports_2_BTS/WDVLive/*~hmac=6812eecbecf7c587d63ee865f815dc047e0af2a315eae0a6eab86c56fb444b6c",
+    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_2_BTS/WDVLive/index.mpd?__hdnea__=st=1781184622~exp=1781206222~acl=/bpk-tv/Star_Sports_2_BTS/WDVLive/*~hmac=7afefd7ed5b607ad77fc5b211427b036b200fa2ddbba479725f081043e4dbb73",
     "group_title": "JIO ⭕|Sports",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_2.png",
     "channel_name": "Star Sports 2",
@@ -4511,7 +4511,7 @@
   "1142": {
     "kid": "https",
     "key": "//keys.cloudplay.qzz.io/pl/plkey.php?id",
-    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_BTS/WDVLive/index.mpd?__hdnea__=st=1781166619~exp=1781188219~acl=/bpk-tv/Star_Sports_1_BTS/WDVLive/*~hmac=ad2a5b70a1587c800260ef5aea062ae0b22a21adfb0ed29d24ceb5db47958e37",
+    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_BTS/WDVLive/index.mpd?__hdnea__=st=1781184622~exp=1781206222~acl=/bpk-tv/Star_Sports_1_BTS/WDVLive/*~hmac=ea24043282dda52bd5ab7ff9d4125000c493f3fd8786ac215a515bee08477b6c",
     "group_title": "JIO ⭕|Sports",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_1.png",
     "channel_name": "Star Sports 1",
@@ -4520,7 +4520,7 @@
   "1143": {
     "kid": "https",
     "key": "//keys.cloudplay.qzz.io/pl/plkey.php?id",
-    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Utsav_BTS/WDVLive/index.mpd?__hdnea__=st=1781166619~exp=1781188219~acl=/bpk-tv/Star_Utsav_BTS/WDVLive/*~hmac=2e41a73dc4767b82871d11d2eaf83af046db0aec1dd51afbc311b6cbc1141177",
+    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Utsav_BTS/WDVLive/index.mpd?__hdnea__=st=1781184621~exp=1781206221~acl=/bpk-tv/Star_Utsav_BTS/WDVLive/*~hmac=ac2e1de7ea6867b36e44faaebb61f8749e98adf961394bede08460bae5e1bb1c",
     "group_title": "JIO ⭕|Entertainment",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Utsav.png",
     "channel_name": "Star Utsav",
@@ -4556,7 +4556,7 @@
   "1154": {
     "kid": "https",
     "key": "//keys.cloudplay.qzz.io/pl/plkey.php?id",
-    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Gold_2_BTS/WDVLive/index.mpd?__hdnea__=st=1781166619~exp=1781188219~acl=/bpk-tv/Star_Gold_2_BTS/WDVLive/*~hmac=39e983e11da7aba199fcd0d33d99d740e178bebc3e0eda578f14221f3c3e3c6b",
+    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Gold_2_BTS/WDVLive/index.mpd?__hdnea__=st=1781184622~exp=1781206222~acl=/bpk-tv/Star_Gold_2_BTS/WDVLive/*~hmac=2be6d776a7fa4763b18bf4792bdf60c72c405e7e2636ee476782978001904e15",
     "group_title": "JIO ⭕|Movies",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_2.png",
     "channel_name": "Star Gold 2",
@@ -4565,7 +4565,7 @@
   "1158": {
     "kid": "https",
     "key": "//keys.cloudplay.qzz.io/pl/plkey.php?id",
-    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Colors_Infinity_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1781166619~exp=1781188219~acl=/bpk-tv/Colors_Infinity_HD_BTS/WDVLive/*~hmac=6d7850bd1427cb4c227742b17c1d4c1aa7645333a977db7d674a59b019fa44bb",
+    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Colors_Infinity_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1781184621~exp=1781206221~acl=/bpk-tv/Colors_Infinity_HD_BTS/WDVLive/*~hmac=17c86474088f74bad200fcef188b7402d3b78100fca6e9e9f65089a0a2e518e7",
     "group_title": "JIO ⭕|Entertainment",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_HD.png",
     "channel_name": "Colors Infinity HD",
@@ -4574,7 +4574,7 @@
   "1163": {
     "kid": "https",
     "key": "//keys.cloudplay.qzz.io/pl/plkey.php?id",
-    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Jio_Esports_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1781166619~exp=1781188219~acl=/bpk-tv/Jio_Esports_HD_BTS/WDVLive/*~hmac=437f50baf89767e52cc71c906346872ff196d938e9c9498e14a7f5df6362a199",
+    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Jio_Esports_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1781184622~exp=1781206222~acl=/bpk-tv/Jio_Esports_HD_BTS/WDVLive/*~hmac=2eca68e4ea616066c1d68bc3d94bf806a13d277836259c210ca7240b21e829c6",
     "group_title": "JIO ⭕|Sports",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Esports_HD.png",
     "channel_name": "JioGames HD",
@@ -4799,7 +4799,7 @@
   "1242": {
     "kid": "https",
     "key": "//keys.cloudplay.qzz.io/pl/plkey.php?id",
-    "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Sonic_Telugu_MOB/WDVLive/index.mpd?__hdnea__=st=1781166623~exp=1781188223~acl=/*~hmac=930f249aa166a0c5a03dd5c4e177968a5371b686c3842591dce99a2f558dba5a",
+    "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Sonic_Telugu_MOB/WDVLive/index.mpd?__hdnea__=st=1781184626~exp=1781206226~acl=/*~hmac=937df16852a1d0f604d5e5343477df0e4e61511ea93607734f92f985d23bd515",
     "group_title": "JIO ⭕|Telugu",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Telugu.png",
     "channel_name": "Sonic Telugu",
@@ -4808,7 +4808,7 @@
   "1243": {
     "kid": "https",
     "key": "//keys.cloudplay.qzz.io/pl/plkey.php?id",
-    "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Sonic_Kannada_MOB/WDVLive/index.mpd?__hdnea__=st=1781166623~exp=1781188223~acl=/*~hmac=930f249aa166a0c5a03dd5c4e177968a5371b686c3842591dce99a2f558dba5a",
+    "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Sonic_Kannada_MOB/WDVLive/index.mpd?__hdnea__=st=1781184626~exp=1781206226~acl=/*~hmac=937df16852a1d0f604d5e5343477df0e4e61511ea93607734f92f985d23bd515",
     "group_title": "JIO ⭕|Kannada",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Kannada.png",
     "channel_name": "Sonic Kannada",
@@ -4997,7 +4997,7 @@
   "1294": {
     "kid": "https",
     "key": "//keys.cloudplay.qzz.io/pl/plkey.php?id",
-    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Dsports_BTS/WDVLive/index.mpd?__hdnea__=st=1781166619~exp=1781188219~acl=/bpk-tv/Dsports_BTS/WDVLive/*~hmac=3eb22ba23c78f64aca3432b72ca6f795715c7dd4b2ecd1e9c747e46823766c93",
+    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Dsports_BTS/WDVLive/index.mpd?__hdnea__=st=1781184622~exp=1781206222~acl=/bpk-tv/Dsports_BTS/WDVLive/*~hmac=0672202b74562f09c4653bf3cdf416bed1bc4778db6bd48713a44e7adaffa47c",
     "group_title": "JIO ⭕|Sports",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Dsports.png",
     "channel_name": "Eurosport",
@@ -5051,7 +5051,7 @@
   "1324": {
     "kid": "https",
     "key": "//keys.cloudplay.qzz.io/pl/plkey.php?id",
-    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Colors_Gujarati_Cinema_BTS/WDVLive/index.mpd?__hdnea__=st=1781166621~exp=1781188221~acl=/bpk-tv/Colors_Gujarati_Cinema_BTS/WDVLive/*~hmac=713cea9a25fc666ea6b0571ba0029c7731c4dcb5b571010a3ac9d188f74acd3d",
+    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Colors_Gujarati_Cinema_BTS/WDVLive/index.mpd?__hdnea__=st=1781184623~exp=1781206223~acl=/bpk-tv/Colors_Gujarati_Cinema_BTS/WDVLive/*~hmac=7fc3a83dd706f34f66d93bd858121f0301d6b6e6bcc53d6c3457c1d8da1d6d23",
     "group_title": "JIO ⭕|Gujarati",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Gujarati_Cinema.png",
     "channel_name": "Colors Gujarati Cinema",
@@ -5060,7 +5060,7 @@
   "1325": {
     "kid": "https",
     "key": "//keys.cloudplay.qzz.io/pl/plkey.php?id",
-    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Colors_Infinity_SD_BTS/WDVLive/index.mpd?__hdnea__=st=1781166619~exp=1781188219~acl=/bpk-tv/Colors_Infinity_SD_BTS/WDVLive/*~hmac=58991b1d96c0de3da97a3259cad883c1f5066c3a98620cae4c7d60833ca0fa11",
+    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Colors_Infinity_SD_BTS/WDVLive/index.mpd?__hdnea__=st=1781184621~exp=1781206221~acl=/bpk-tv/Colors_Infinity_SD_BTS/WDVLive/*~hmac=39eca2f7fb99db31a747f8aa0b413b92a085bc83214120c6af008b720f22930f",
     "group_title": "JIO ⭕|Entertainment",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_SD.png",
     "channel_name": "Colors Infinity SD",
@@ -5069,7 +5069,7 @@
   "1326": {
     "kid": "https",
     "key": "//keys.cloudplay.qzz.io/pl/plkey.php?id",
-    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Colors_Marathi_SD_BTS/WDVLive/index.mpd?__hdnea__=st=1781166620~exp=1781188220~acl=/bpk-tv/Colors_Marathi_SD_BTS/WDVLive/*~hmac=299629a51a5438adc28d74f7deef2b4919f0ea4c12428f45b00278f91843cfcb",
+    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Colors_Marathi_SD_BTS/WDVLive/index.mpd?__hdnea__=st=1781184622~exp=1781206222~acl=/bpk-tv/Colors_Marathi_SD_BTS/WDVLive/*~hmac=c19af806409f86a3e14c33a6e66dbe7ae9c07d562286280aaf5946e027ad8358",
     "group_title": "JIO ⭕|Marathi",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Marathi_SD.png",
     "channel_name": "Colors Marathi SD",
@@ -5150,7 +5150,7 @@
   "1344": {
     "kid": "https",
     "key": "//keys.cloudplay.qzz.io/pl/plkey.php?id",
-    "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Sonic_Malayalam_MOB/WDVLive/index.mpd?__hdnea__=st=1781166623~exp=1781188223~acl=/*~hmac=930f249aa166a0c5a03dd5c4e177968a5371b686c3842591dce99a2f558dba5a",
+    "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Sonic_Malayalam_MOB/WDVLive/index.mpd?__hdnea__=st=1781184626~exp=1781206226~acl=/*~hmac=937df16852a1d0f604d5e5343477df0e4e61511ea93607734f92f985d23bd515",
     "group_title": "JIO ⭕|Malayalam",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Malayalam.png",
     "channel_name": "Sonic Malayalam",
@@ -5159,7 +5159,7 @@
   "1345": {
     "kid": "https",
     "key": "//keys.cloudplay.qzz.io/pl/plkey.php?id",
-    "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Sonic_Bangla_MOB/WDVLive/index.mpd?__hdnea__=st=1781166623~exp=1781188223~acl=/*~hmac=930f249aa166a0c5a03dd5c4e177968a5371b686c3842591dce99a2f558dba5a",
+    "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Sonic_Bangla_MOB/WDVLive/index.mpd?__hdnea__=st=1781184627~exp=1781206227~acl=/*~hmac=9c203058212bcaac2f2daacaa0273b1833bf01ed54720ec1a816cf02800ee164",
     "group_title": "JIO ⭕|Bengali",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Bangla.png",
     "channel_name": "Sonic Bangla",
@@ -5168,7 +5168,7 @@
   "1346": {
     "kid": "https",
     "key": "//keys.cloudplay.qzz.io/pl/plkey.php?id",
-    "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Sonic_Marathi_MOB/WDVLive/index.mpd?__hdnea__=st=1781166623~exp=1781188223~acl=/*~hmac=930f249aa166a0c5a03dd5c4e177968a5371b686c3842591dce99a2f558dba5a",
+    "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Sonic_Marathi_MOB/WDVLive/index.mpd?__hdnea__=st=1781184626~exp=1781206226~acl=/*~hmac=937df16852a1d0f604d5e5343477df0e4e61511ea93607734f92f985d23bd515",
     "group_title": "JIO ⭕|Marathi",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Marathi.png",
     "channel_name": "Sonic Marathi",
@@ -5249,7 +5249,7 @@
   "1368": {
     "kid": "https",
     "key": "//keys.cloudplay.qzz.io/pl/plkey.php?id",
-    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Colors_SD_BTS/WDVLive/index.mpd?__hdnea__=st=1781166623~exp=1781188223~acl=/bpk-tv/Colors_SD_BTS/WDVLive/*~hmac=2654d2e1b5e17a4aa69811488c10ba13e195c5299881e421eecc1338cf8fdf66",
+    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Colors_SD_BTS/WDVLive/index.mpd?__hdnea__=st=1781184626~exp=1781206226~acl=/bpk-tv/Colors_SD_BTS/WDVLive/*~hmac=c1e6561256ee89a2da146a898c6fea576a103033651bfa8ea4a0096f77ee28f3",
     "group_title": "JIO ⭕|Entertainment",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_SD.png",
     "channel_name": "Colors SD",
@@ -5258,7 +5258,7 @@
   "1369": {
     "kid": "https",
     "key": "//keys.cloudplay.qzz.io/pl/plkey.php?id",
-    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Colors_Bangla_SD_BTS/WDVLive/index.mpd?__hdnea__=st=1781166622~exp=1781188222~acl=/bpk-tv/Colors_Bangla_SD_BTS/WDVLive/*~hmac=541b90725c0570ac4706fb4000df9599bb4e41d34966e8934f4406ecd7227ccc",
+    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Colors_Bangla_SD_BTS/WDVLive/index.mpd?__hdnea__=st=1781184625~exp=1781206225~acl=/bpk-tv/Colors_Bangla_SD_BTS/WDVLive/*~hmac=425ca3339d37987c5398b1fb4f26f0ce7ce5a8d61a2c6772972f7018aa038cd3",
     "group_title": "JIO ⭕|Bengali",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_SD.png",
     "channel_name": "Colors Bangla SD",
@@ -5267,7 +5267,7 @@
   "1370": {
     "kid": "https",
     "key": "//keys.cloudplay.qzz.io/pl/plkey.php?id",
-    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Colors_Kannada_SD_BTS/WDVLive/index.mpd?__hdnea__=st=1781166620~exp=1781188220~acl=/bpk-tv/Colors_Kannada_SD_BTS/WDVLive/*~hmac=5eca2c20cce62ac3f67bc1f7adc515c3683a8bb2a524b6ec3dd263612eb4a570",
+    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Colors_Kannada_SD_BTS/WDVLive/index.mpd?__hdnea__=st=1781184623~exp=1781206223~acl=/bpk-tv/Colors_Kannada_SD_BTS/WDVLive/*~hmac=3885e8553cfe5afcab5748396cb6ed0fd4f082b6dd1d5ac26d4cc80c0dbafe8d",
     "group_title": "JIO ⭕|Kannada",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Kannada_SD.png",
     "channel_name": "Colors Kannada SD",
@@ -5276,7 +5276,7 @@
   "1371": {
     "kid": "https",
     "key": "//keys.cloudplay.qzz.io/pl/plkey.php?id",
-    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Colors_Tamil_BTS/WDVLive/index.mpd?__hdnea__=st=1781166620~exp=1781188220~acl=/bpk-tv/Colors_Tamil_BTS/WDVLive/*~hmac=7ceb1d12651f2367a555b9d1198dad052c4eda06e1f0aecf1fd511171d09195c",
+    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Colors_Tamil_BTS/WDVLive/index.mpd?__hdnea__=st=1781184623~exp=1781206223~acl=/bpk-tv/Colors_Tamil_BTS/WDVLive/*~hmac=fae0f400e2b30b022e4fe679f09df16a48781bd1ec36bfb5cd2ae314bbf1b07a",
     "group_title": "JIO ⭕|Tamil",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Tamil.png",
     "channel_name": "Colors Tamil",
@@ -5285,7 +5285,7 @@
   "1373": {
     "kid": "https",
     "key": "//keys.cloudplay.qzz.io/pl/plkey.php?id",
-    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Disney_Channel_BTS/WDVLive/index.mpd?__hdnea__=st=1781166619~exp=1781188219~acl=/bpk-tv/Disney_Channel_BTS/WDVLive/*~hmac=318f8857890359999df6debd71a63eed892229c92dcf0efe7d90fb5b77f19afd",
+    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Disney_Channel_BTS/WDVLive/index.mpd?__hdnea__=st=1781184622~exp=1781206222~acl=/bpk-tv/Disney_Channel_BTS/WDVLive/*~hmac=06e7e0b06ea4a472f9a67dc9d8bccea8c7d2e1c0be8e31d690e5f52fa66b771e",
     "group_title": "JIO ⭕|Kids",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Disney_Channel.png",
     "channel_name": "Disney Channel",
@@ -5294,7 +5294,7 @@
   "1374": {
     "kid": "https",
     "key": "//keys.cloudplay.qzz.io/pl/plkey.php?id",
-    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Disney_Junior_BTS/WDVLive/index.mpd?__hdnea__=st=1781166619~exp=1781188219~acl=/bpk-tv/Disney_Junior_BTS/WDVLive/*~hmac=a9451013701a0cfc6422364e3776f9105ea7fb523d0067ead81f3db1e1d225c8",
+    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Disney_Junior_BTS/WDVLive/index.mpd?__hdnea__=st=1781184622~exp=1781206222~acl=/bpk-tv/Disney_Junior_BTS/WDVLive/*~hmac=3a1c36e9b5196cf208dbbc6ed27fa1da7975465d4b764242beabaa94c5412d4d",
     "group_title": "JIO ⭕|Kids",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Disney_Junior.png",
     "channel_name": "Disney Junior",
@@ -5303,7 +5303,7 @@
   "1375": {
     "kid": "https",
     "key": "//keys.cloudplay.qzz.io/pl/plkey.php?id",
-    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Disney_International_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1781166619~exp=1781188219~acl=/bpk-tv/Disney_International_HD_BTS/WDVLive/*~hmac=921a503685c8163f19680707b244a27610f76355dc59b0cf3fcb9b54b13daf35",
+    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Disney_International_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1781184621~exp=1781206221~acl=/bpk-tv/Disney_International_HD_BTS/WDVLive/*~hmac=0488b99597b04d6cd9afd30e129986c6f68609ea5fe4ebda1588b12fb3bed0a9",
     "group_title": "JIO ⭕|Entertainment",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Disney_International_HD.png",
     "channel_name": "Disney International HD",
@@ -5321,7 +5321,7 @@
   "1389": {
     "kid": "https",
     "key": "//keys.cloudplay.qzz.io/pl/plkey.php?id",
-    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_3_BTS/WDVLive/index.mpd?__hdnea__=st=1781166619~exp=1781188219~acl=/bpk-tv/Star_Sports_3_BTS/WDVLive/*~hmac=16b2db51a5b0dbd9d79181022a2955e9f694bfa77305bc686401cf42aab325b2",
+    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_3_BTS/WDVLive/index.mpd?__hdnea__=st=1781184622~exp=1781206222~acl=/bpk-tv/Star_Sports_3_BTS/WDVLive/*~hmac=34b2977ed89c647e608a9d58f478baf960d088f898a21a1735b96df905e2c3e9",
     "group_title": "JIO ⭕|Sports",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_3.png",
     "channel_name": "Star Sports 3",
@@ -5330,7 +5330,7 @@
   "1391": {
     "kid": "https",
     "key": "//keys.cloudplay.qzz.io/pl/plkey.php?id",
-    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Hungama_BTS/WDVLive/index.mpd?__hdnea__=st=1781166619~exp=1781188219~acl=/bpk-tv/Hungama_BTS/WDVLive/*~hmac=5fdd67d80c8e959891980acfc09263ab989d78cfc4c3b07c9f0eff88f860ce2d",
+    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Hungama_BTS/WDVLive/index.mpd?__hdnea__=st=1781184622~exp=1781206222~acl=/bpk-tv/Hungama_BTS/WDVLive/*~hmac=8850a409a1781e2f7ce1d0c3614ec294e3b1a799d044b249be3c707bd3b303c5",
     "group_title": "JIO ⭕|Kids",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Hungama.png",
     "channel_name": "Hungama",
@@ -5339,7 +5339,7 @@
   "1392": {
     "kid": "https",
     "key": "//keys.cloudplay.qzz.io/pl/plkey.php?id",
-    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Super_Hungama_BTS/WDVLive/index.mpd?__hdnea__=st=1781166619~exp=1781188219~acl=/bpk-tv/Super_Hungama_BTS/WDVLive/*~hmac=ef0a3ab67f38484c126c96a5081c4f569f390cbb3569413c4efc6b9333c49df6",
+    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Super_Hungama_BTS/WDVLive/index.mpd?__hdnea__=st=1781184622~exp=1781206222~acl=/bpk-tv/Super_Hungama_BTS/WDVLive/*~hmac=511416e364f7b320ae5e4ac08d5d484e5d375737e6ef1ea30eec13835d2bc856",
     "group_title": "JIO ⭕|Kids",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Super_Hungama.png",
     "channel_name": "Super Hungama",
@@ -5519,7 +5519,7 @@
   "1450": {
     "kid": "https",
     "key": "//keys.cloudplay.qzz.io/pl/plkey.php?id",
-    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/ColorsCineplexSuperhit_BTS/WDVLive/index.mpd?__hdnea__=st=1781166619~exp=1781188219~acl=/bpk-tv/ColorsCineplexSuperhit_BTS/WDVLive/*~hmac=6fe72a9729fb721ff8aaa13fd1596b807eabea0964d3a2cc9d18bf6961562bc5",
+    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/ColorsCineplexSuperhit_BTS/WDVLive/index.mpd?__hdnea__=st=1781184622~exp=1781206222~acl=/bpk-tv/ColorsCineplexSuperhit_BTS/WDVLive/*~hmac=9dd8e66f6e3198f3b9a906af26036d5aed58d3555bd173721df33ac99fb956ae",
     "group_title": "JIO ⭕|Movies",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsCineplexSuperhit.png",
     "channel_name": "Colors Cineplex Superhit",
@@ -5573,7 +5573,7 @@
   "1471": {
     "kid": "https",
     "key": "//keys.cloudplay.qzz.io/pl/plkey.php?id",
-    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/History_TV18_SD_BTS/WDVLive/index.mpd?__hdnea__=st=1781166619~exp=1781188219~acl=/bpk-tv/History_TV18_SD_BTS/WDVLive/*~hmac=7958d2d9e504c0edb64dbebded6e16853411a5e2b1391c134f709ac474fa5785",
+    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/History_TV18_SD_BTS/WDVLive/index.mpd?__hdnea__=st=1781184622~exp=1781206222~acl=/bpk-tv/History_TV18_SD_BTS/WDVLive/*~hmac=c0cb1b63a355ef5559fa5edc5dd2ed5337695504ea9a5e650de76b107f648219",
     "group_title": "JIO ⭕|Infotainment",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/History_TV18_SD.png",
     "channel_name": "History TV18",
@@ -5843,7 +5843,7 @@
   "1529": {
     "kid": "https",
     "key": "//keys.cloudplay.qzz.io/pl/plkey.php?id",
-    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/MI_TV_BTS/WDVLive/index.mpd?__hdnea__=st=1781166619~exp=1781188219~acl=/bpk-tv/MI_TV_BTS/WDVLive/*~hmac=2d1d0ca47471fbf3b224ad10a04d1aecbb45b1a80f05306ae590393b3029936f",
+    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/MI_TV_BTS/WDVLive/index.mpd?__hdnea__=st=1781184622~exp=1781206222~acl=/bpk-tv/MI_TV_BTS/WDVLive/*~hmac=4b7f2fda8c83975b76d4df1e3254eb3a2ae63c73d7c7d52ac11d0816559b4279",
     "group_title": "JIO ⭕|Sports",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/MI_TV.png",
     "channel_name": "MI TV",
@@ -6041,7 +6041,7 @@
   "1632": {
     "kid": "https",
     "key": "//keys.cloudplay.qzz.io/pl/plkey.php?id",
-    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/ColorsKannadaCinema_BTS/WDVLive/index.mpd?__hdnea__=st=1781166620~exp=1781188220~acl=/bpk-tv/ColorsKannadaCinema_BTS/WDVLive/*~hmac=043f3674e78ab15da94912ce5babc0d024c931eade193e76bc80142f427814ea",
+    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/ColorsKannadaCinema_BTS/WDVLive/index.mpd?__hdnea__=st=1781184624~exp=1781206224~acl=/bpk-tv/ColorsKannadaCinema_BTS/WDVLive/*~hmac=d6fa9208e6d87338724a68334fbebfc0cc67cc2f59fc5b5afe58aa1225e3bebf",
     "group_title": "JIO ⭕|Kannada",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsKannadaCinema.png",
     "channel_name": "Colors Kannada Cinema",
@@ -6113,7 +6113,7 @@
   "1650": {
     "kid": "https",
     "key": "//keys.cloudplay.qzz.io/pl/plkey.php?id",
-    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Kannada_BTS/WDVLive/index.mpd?__hdnea__=st=1781166620~exp=1781188220~acl=/bpk-tv/Star_Sports_1_Kannada_BTS/WDVLive/*~hmac=d3c8d55747b597dfbbfcce909b735c25a95677cfe8d5a1dd7cf37cf0442024c6",
+    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Kannada_BTS/WDVLive/index.mpd?__hdnea__=st=1781184623~exp=1781206223~acl=/bpk-tv/Star_Sports_1_Kannada_BTS/WDVLive/*~hmac=512d8f84f42b53abc997b092a5999676dd23b3caff9fc430020ab8bb382938ab",
     "group_title": "JIO ⭕|Kannada",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_1_Kannada.png",
     "channel_name": "Star Sports 1 Kannada",
@@ -6122,7 +6122,7 @@
   "1651": {
     "kid": "https",
     "key": "//keys.cloudplay.qzz.io/pl/plkey.php?id",
-    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Telugu_BTS/WDVLive/index.mpd?__hdnea__=st=1781166620~exp=1781188220~acl=/bpk-tv/Star_Sports_1_Telugu_BTS/WDVLive/*~hmac=c93c300e01a96533a19b74207f1c5803cfd2daa23b4b9f55f83352c00d1c163e",
+    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Telugu_BTS/WDVLive/index.mpd?__hdnea__=st=1781184622~exp=1781206222~acl=/bpk-tv/Star_Sports_1_Telugu_BTS/WDVLive/*~hmac=2960d6bcc503b679effbbe28ed102c3874144e5b5aa3272d0e70db08581e598b",
     "group_title": "JIO ⭕|Telugu",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_1_Telugu.png",
     "channel_name": "Star Sports 1 Telugu",
@@ -6140,7 +6140,7 @@
   "1657": {
     "kid": "https",
     "key": "//keys.cloudplay.qzz.io/pl/plkey.php?id",
-    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Colors_Bangla_Cinema_BTS/WDVLive/index.mpd?__hdnea__=st=1781166622~exp=1781188222~acl=/bpk-tv/Colors_Bangla_Cinema_BTS/WDVLive/*~hmac=1bf94b0e9d776f2e6f05ba747a284eb5f5f8a4c19b9c638b02f4288a3f2b17fe",
+    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Colors_Bangla_Cinema_BTS/WDVLive/index.mpd?__hdnea__=st=1781184625~exp=1781206225~acl=/bpk-tv/Colors_Bangla_Cinema_BTS/WDVLive/*~hmac=04b3f4a6ad3481647e68e5002e0caf306a9cf6fb28d7305c5a2bbaf546b87b03",
     "group_title": "JIO ⭕|Bengali",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_Cinema.png",
     "channel_name": "Colors Bangla Cinema",
@@ -6410,7 +6410,7 @@
   "1763": {
     "kid": "https",
     "key": "//keys.cloudplay.qzz.io/pl/plkey.php?id",
-    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/ColorsCineplexBollywood_BTS/WDVLive/index.mpd?__hdnea__=st=1781166619~exp=1781188219~acl=/bpk-tv/ColorsCineplexBollywood_BTS/WDVLive/*~hmac=e8df1903d44c5a2fc72153ce7ed2bcab46f0b17d64be701e1982dd23085fdc35",
+    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/ColorsCineplexBollywood_BTS/WDVLive/index.mpd?__hdnea__=st=1781184622~exp=1781206222~acl=/bpk-tv/ColorsCineplexBollywood_BTS/WDVLive/*~hmac=8544e88e7458c2a0e68669843f44a48ed1e71429f953ead1f89adfb6035e0cc9",
     "group_title": "JIO ⭕|Movies",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsCineplexBollywood.png",
     "channel_name": "Colors Cineplex Bollywood",
@@ -6851,7 +6851,7 @@
   "1984": {
     "kid": "https",
     "key": "//keys.cloudplay.qzz.io/pl/plkey.php?id",
-    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/StarSportsHD2Hin_BTS/WDVLive/index.mpd?__hdnea__=st=1781166619~exp=1781188219~acl=/bpk-tv/StarSportsHD2Hin_BTS/WDVLive/*~hmac=72a7642eac94d8fc4667fb90011bf5940db1e1a997dedd8d759de9f6ff17a112",
+    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/StarSportsHD2Hin_BTS/WDVLive/index.mpd?__hdnea__=st=1781184622~exp=1781206222~acl=/bpk-tv/StarSportsHD2Hin_BTS/WDVLive/*~hmac=8e976c32de6ae6537478aa49f1c5d5b96c0d08b1b4c8b199915a3e20893ac331",
     "group_title": "JIO ⭕|Sports",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_1_HD.png",
     "channel_name": "Star Sports 2 Hindi HD",
@@ -6860,7 +6860,7 @@
   "1985": {
     "kid": "https",
     "key": "//keys.cloudplay.qzz.io/pl/plkey.php?id",
-    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/StarSports2Hin_BTS/WDVLive/index.mpd?__hdnea__=st=1781166619~exp=1781188219~acl=/bpk-tv/StarSports2Hin_BTS/WDVLive/*~hmac=690be4eec7fd26f943e3b3d326c8c6bdf904cd1d15afea9217e2a3b33db53f0f",
+    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/StarSports2Hin_BTS/WDVLive/index.mpd?__hdnea__=st=1781184622~exp=1781206222~acl=/bpk-tv/StarSports2Hin_BTS/WDVLive/*~hmac=74475721a2387e8eff77c4a789dddb6180d092d3e6a7f67fe244aeb66cec703a",
     "group_title": "JIO ⭕|Sports",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_1_SD.png",
     "channel_name": "Star Sports 2 Hindi",
@@ -7472,7 +7472,7 @@
   "2766": {
     "kid": "https",
     "key": "//keys.cloudplay.qzz.io/pl/plkey.php?id",
-    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Brave_TV_BTS/WDVLive/index.mpd?__hdnea__=st=1781166621~exp=1781188221~acl=/bpk-tv/Brave_TV_BTS/WDVLive/*~hmac=a871b8288739684dfa6710c58451136bfcf9448a546c6a741d7e04b036da560d",
+    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Brave_TV_BTS/WDVLive/index.mpd?__hdnea__=st=1781184624~exp=1781206224~acl=/bpk-tv/Brave_TV_BTS/WDVLive/*~hmac=7381fa75ee7bdf2989a21f71a0984ff4c39faa1810cb556c65423084b1fbf4a7",
     "group_title": "JIO ⭕|News",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Brave_TV.png",
     "channel_name": "BRAVE TV",
@@ -7571,7 +7571,7 @@
   "2779": {
     "kid": "https",
     "key": "//keys.cloudplay.qzz.io/pl/plkey.php?id",
-    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Red_Bull_TV_BTS/WDVLive/index.mpd?__hdnea__=st=1781166619~exp=1781188219~acl=/bpk-tv/Red_Bull_TV_BTS/WDVLive/*~hmac=854e3a79217c993c64ba4038dbe66b55b9d64539dfb2b20354583df713c899d8",
+    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Red_Bull_TV_BTS/WDVLive/index.mpd?__hdnea__=st=1781184622~exp=1781206222~acl=/bpk-tv/Red_Bull_TV_BTS/WDVLive/*~hmac=e2300ffcd0f5db9c1622be6d0b76549a2a3812a1583b564c71166619a07aa193",
     "group_title": "JIO ⭕|Sports",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Red_Bull_TV.png",
     "channel_name": "Red Bull TV",
@@ -7625,7 +7625,7 @@
   "2852": {
     "kid": "https",
     "key": "//keys.cloudplay.qzz.io/pl/plkey.php?id",
-    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/StarSports2Telugu_BTS/WDVLive/index.mpd?__hdnea__=st=1781166620~exp=1781188220~acl=/bpk-tv/StarSports2Telugu_BTS/WDVLive/*~hmac=cc163bcc716623146b2ff4aa325d1e87ed01debff4f66f75e113a4018616a531",
+    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/StarSports2Telugu_BTS/WDVLive/index.mpd?__hdnea__=st=1781184622~exp=1781206222~acl=/bpk-tv/StarSports2Telugu_BTS/WDVLive/*~hmac=64d96c3cbd9cbd046be38cc33c591cf19db5fcf244050aeb3c3dbbc0eab49971",
     "group_title": "JIO ⭕|Telugu",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/StarSports2Telugu.png",
     "channel_name": "Star Sports 2 Telugu",
@@ -7634,7 +7634,7 @@
   "2853": {
     "kid": "https",
     "key": "//keys.cloudplay.qzz.io/pl/plkey.php?id",
-    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/StarSports2Tamil_BTS/WDVLive/index.mpd?__hdnea__=st=1781166620~exp=1781188220~acl=/bpk-tv/StarSports2Tamil_BTS/WDVLive/*~hmac=43044078f347eddef986119aaa4a6f6a99cb4c54772c629e594771ca42776a13",
+    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/StarSports2Tamil_BTS/WDVLive/index.mpd?__hdnea__=st=1781184623~exp=1781206223~acl=/bpk-tv/StarSports2Tamil_BTS/WDVLive/*~hmac=3731c12daecf33dfe55290a7ee3e08690025907b6752686cc999ac05c1e41ece",
     "group_title": "JIO ⭕|Tamil",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/StarSports2Tamil.png",
     "channel_name": "Star Sports 2 Tamil",
@@ -7877,7 +7877,7 @@
   "3011": {
     "kid": "https",
     "key": "//keys.cloudplay.qzz.io/pl/plkey.php?id",
-    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Lancs_TV_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1781166619~exp=1781188219~acl=/bpk-tv/Lancs_TV_HD_BTS/WDVLive/*~hmac=b6d078d9adc593d5b0426adb66521e46ef218d6018c2d9d2cd9d36e77cb75694",
+    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Lancs_TV_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1781184622~exp=1781206222~acl=/bpk-tv/Lancs_TV_HD_BTS/WDVLive/*~hmac=e16b908dd7a93d43fd3bd33329927e0c79c4086cec9b9ad85b396750a728fcc5",
     "group_title": "JIO ⭕|Sports",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Lancs_TV_HD.png",
     "channel_name": "Lancs TV HD",
@@ -8345,7 +8345,7 @@
   "3098": {
     "kid": "https",
     "key": "//keys.cloudplay.qzz.io/pl/plkey.php?id",
-    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Gold_Thrills_BTS/WDVLive/index.mpd?__hdnea__=st=1781166619~exp=1781188219~acl=/bpk-tv/Star_Gold_Thrills_BTS/WDVLive/*~hmac=e0f57bb4d964186c3c066fd72d21dda7868af1b8d4e3965b048c7be754aff217",
+    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Gold_Thrills_BTS/WDVLive/index.mpd?__hdnea__=st=1781184622~exp=1781206222~acl=/bpk-tv/Star_Gold_Thrills_BTS/WDVLive/*~hmac=8af31dce111b28eed36cde7a631585961018b5abe242cc4b09b56575231946fb",
     "group_title": "JIO ⭕|Movies",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_Thrills.png",
     "channel_name": "Star Gold Thrills",
@@ -8354,7 +8354,7 @@
   "3099": {
     "kid": "https",
     "key": "//keys.cloudplay.qzz.io/pl/plkey.php?id",
-    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Pravah_Picture_BTS/WDVLive/index.mpd?__hdnea__=st=1781166620~exp=1781188220~acl=/bpk-tv/Star_Pravah_Picture_BTS/WDVLive/*~hmac=ab9d4b0fbe6bfa0fee96bcf59f5f3622985008ce5e42c052e9a45d57a99da9e7",
+    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Pravah_Picture_BTS/WDVLive/index.mpd?__hdnea__=st=1781184622~exp=1781206222~acl=/bpk-tv/Star_Pravah_Picture_BTS/WDVLive/*~hmac=838a04e9dcbead55908176945457bef38caf08e216701382d186ce78ad8de241",
     "group_title": "JIO ⭕|Marathi",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Pravah_Picture.png",
     "channel_name": "Star Pravah Picture",
@@ -8363,7 +8363,7 @@
   "3100": {
     "kid": "https",
     "key": "//keys.cloudplay.qzz.io/pl/plkey.php?id",
-    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Pravah_Picture_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1781166620~exp=1781188220~acl=/bpk-tv/Star_Pravah_Picture_HD_BTS/WDVLive/*~hmac=78c9fce40cffb74b0a936b2e2d008e5998a8ce9f8217b06def0cd9ebd78a6ecb",
+    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Pravah_Picture_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1781184622~exp=1781206222~acl=/bpk-tv/Star_Pravah_Picture_HD_BTS/WDVLive/*~hmac=72f14edb0e5c3b65f60de7ac518fc66e3e183566f83dab7c5382791fff1561c3",
     "group_title": "JIO ⭕|Marathi",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Pravah_Picture_HD.png",
     "channel_name": "Star Pravah Picture HD",
@@ -8705,7 +8705,7 @@
   "3146": {
     "kid": "https",
     "key": "//keys.cloudplay.qzz.io/pl/plkey.php?id",
-    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/AWSN_BTS/WDVLive/index.mpd?__hdnea__=st=1781166619~exp=1781188219~acl=/bpk-tv/AWSN_BTS/WDVLive/*~hmac=9c03858ab371bdf9418a58efba4c8357df43cee0ce676f9041523ff5e46064ab",
+    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/AWSN_BTS/WDVLive/index.mpd?__hdnea__=st=1781184622~exp=1781206222~acl=/bpk-tv/AWSN_BTS/WDVLive/*~hmac=ccf98ca5f30cc8356d935e4a2c5afdfefa200755da37de4facbabb498eb84e1e",
     "group_title": "JIO ⭕|Sports",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/AWSN.png",
     "channel_name": "All Women's Sports Network",
@@ -9200,7 +9200,7 @@
   "3243": {
     "kid": "https",
     "key": "//keys.cloudplay.qzz.io/pl/plkey.php?id",
-    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Pickleball_Now_BTS/WDVLive/index.mpd?__hdnea__=st=1781166619~exp=1781188219~acl=/bpk-tv/Pickleball_Now_BTS/WDVLive/*~hmac=184e48a3bf47a02d1c8a7e7339d862fd22606631898656195c15d89380ae447c",
+    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Pickleball_Now_BTS/WDVLive/index.mpd?__hdnea__=st=1781184622~exp=1781206222~acl=/bpk-tv/Pickleball_Now_BTS/WDVLive/*~hmac=cb0d25b73d85cfce64ead8a695bf86a1d7f68c8402d9de9858b06c130d13e1bc",
     "group_title": "JIO ⭕|Sports",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Pickleball_Now.png",
     "channel_name": "Pickleball Now",
@@ -9281,7 +9281,7 @@
   "3266": {
     "kid": "https",
     "key": "//keys.cloudplay.qzz.io/pl/plkey.php?id",
-    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Vijay_Super_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1781166620~exp=1781188220~acl=/bpk-tv/Vijay_Super_HD_BTS/WDVLive/*~hmac=edb90c217f8b0bcf22c8c808e0c024504acae5f45abe89948331e9ad8713ebd5",
+    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Vijay_Super_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1781184623~exp=1781206223~acl=/bpk-tv/Vijay_Super_HD_BTS/WDVLive/*~hmac=b66a442d69a5302c0ff1dc4c13d6492d5bf43675450e76d104c911092b67d735",
     "group_title": "JIO ⭕|Tamil",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Vijay_Super_HD.png",
     "channel_name": "Vijay Super HD",
@@ -9290,7 +9290,7 @@
   "3267": {
     "kid": "https",
     "key": "//keys.cloudplay.qzz.io/pl/plkey.php?id",
-    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Kiran_BTS/WDVLive/index.mpd?__hdnea__=st=1781166622~exp=1781188222~acl=/bpk-tv/Star_Kiran_BTS/WDVLive/*~hmac=f3d20d30a69337ed43beacff24ca2767a03f3ecba993a31ae89f2b6afc53b629",
+    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Kiran_BTS/WDVLive/index.mpd?__hdnea__=st=1781184625~exp=1781206225~acl=/bpk-tv/Star_Kiran_BTS/WDVLive/*~hmac=7234c2e251da99b8e51759616fe2fd32022ec8eaa1b43bd9e20b23a56a969c27",
     "group_title": "JIO ⭕|Odia",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Kiran.png",
     "channel_name": "Star Kiran",
@@ -9308,7 +9308,7 @@
   "3269": {
     "kid": "https",
     "key": "//keys.cloudplay.qzz.io/pl/plkey.php?id",
-    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Vijay_Takkar_BTS/WDVLive/index.mpd?__hdnea__=st=1781166620~exp=1781188220~acl=/bpk-tv/Vijay_Takkar_BTS/WDVLive/*~hmac=32c9082aeda1707a07978e969608ed1b9277a52867670f7ef50126ef209b8af1",
+    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Vijay_Takkar_BTS/WDVLive/index.mpd?__hdnea__=st=1781184623~exp=1781206223~acl=/bpk-tv/Vijay_Takkar_BTS/WDVLive/*~hmac=d4459c4663be9eabd9bdd8a9c2752be52b8c829b0d8962c0f8732146c316f93f",
     "group_title": "JIO ⭕|Tamil",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Vijay_Takkar.png",
     "channel_name": "Vijay Takkar",
@@ -9317,7 +9317,7 @@
   "3273": {
     "kid": "https",
     "key": "//keys.cloudplay.qzz.io/pl/plkey.php?id",
-    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports2_Tamil_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1781166620~exp=1781188220~acl=/bpk-tv/Star_Sports2_Tamil_HD_BTS/WDVLive/*~hmac=cc0b66d4aa6e900b9662ebfc29bad296fb0e8b1c9c6738bb457e772149c1ef95",
+    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports2_Tamil_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1781184623~exp=1781206223~acl=/bpk-tv/Star_Sports2_Tamil_HD_BTS/WDVLive/*~hmac=290d5de4e170d3370d8e4f5a16697ea76fe87004ceb926f41e9310de9b41eb25",
     "group_title": "JIO ⭕|Tamil",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports2_Tamil_HD.png",
     "channel_name": "Star Sports 2 Tamil HD",
@@ -9326,7 +9326,7 @@
   "3274": {
     "kid": "https",
     "key": "//keys.cloudplay.qzz.io/pl/plkey.php?id",
-    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports2_Telugu_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1781166620~exp=1781188220~acl=/bpk-tv/Star_Sports2_Telugu_HD_BTS/WDVLive/*~hmac=4a8d8719908160b845a4eeffbb68dea8f072906d0c4bb0a435778de0e48e02e4",
+    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports2_Telugu_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1781184622~exp=1781206222~acl=/bpk-tv/Star_Sports2_Telugu_HD_BTS/WDVLive/*~hmac=584f862046b3d276073b0e56667d8dfe054918b0d9787103d7a083952a678cef",
     "group_title": "JIO ⭕|Telugu",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports2_Telugu_HD.png",
     "channel_name": "Star Sports 2 Telugu HD",
@@ -9344,7 +9344,7 @@
   "3277": {
     "kid": "https",
     "key": "//keys.cloudplay.qzz.io/pl/plkey.php?id",
-    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Tamil_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1781166620~exp=1781188220~acl=/bpk-tv/Star_Sports_1_Tamil_HD_BTS/WDVLive/*~hmac=24ea8e25ada2e1f618ece35dd748ea5802efc7c698539040294b67c0e4bf4c87",
+    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Tamil_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1781184623~exp=1781206223~acl=/bpk-tv/Star_Sports_1_Tamil_HD_BTS/WDVLive/*~hmac=dbdefcc331f53859921b938bca9cd6eb32c569bc96b1ddaa956713ac2039d7d6",
     "group_title": "JIO ⭕|Tamil",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_1_Tamil_HD.png",
     "channel_name": "Star Sports 1 Tamil HD",
@@ -9353,7 +9353,7 @@
   "3278": {
     "kid": "https",
     "key": "//keys.cloudplay.qzz.io/pl/plkey.php?id",
-    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Telugu_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1781166620~exp=1781188220~acl=/bpk-tv/Star_Sports_1_Telugu_HD_BTS/WDVLive/*~hmac=4bf36ea7d6576d37c1b6f4d1bfac7f1701985b00e8ba2a11da48638df93cdd58",
+    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Telugu_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1781184622~exp=1781206222~acl=/bpk-tv/Star_Sports_1_Telugu_HD_BTS/WDVLive/*~hmac=fe10fa6774045a1b7944e04ffd9386bf5b5c8583bdedcd910e6e5f6cc0d77f47",
     "group_title": "JIO ⭕|Telugu",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_1_Telugu_HD.png",
     "channel_name": "Star Sports 1 Telugu HD",
