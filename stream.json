@@ -1,4 +1,31 @@
 {
+  "33": {
+    "kid": "{\"keys\"",
+    "key": "[{\"kty\"",
+    "url": "https://ottlive.dishhome.com.np/protected/_ATOzZkB0RDJ74Ryniqo/dash/manifest.mpd",
+    "group_title": "FIFA WC 2026",
+    "tvg_logo": "https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png",
+    "channel_name": " Himalaya HD",
+    "user_agent": "Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)"
+  },
+  "89": {
+    "kid": "{\"keys\"",
+    "key": "[{\"kty\"",
+    "url": "https://ottlive.dishhome.com.np/protected/GgTOzZkB0RDJ74Ryniuo/dash/manifest.mpd",
+    "group_title": "FIFA WC 2026",
+    "tvg_logo": "https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png",
+    "channel_name": " Himalayan Premium HD",
+    "user_agent": "Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)"
+  },
+  "230": {
+    "kid": "{\"keys\"",
+    "key": "[{\"kty\"",
+    "url": "https://ottlive.dishhome.com.np/protected/jATOzZkB0RDJ74Ryniuo/dash/manifest.mpd",
+    "group_title": "FIFA WC 2026",
+    "tvg_logo": "https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png",
+    "channel_name": " DD Sports 1.0",
+    "user_agent": "Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)"
+  },
   "192537": {
     "kid": "0c37231880034787bce9fd3607aa09ea",
     "key": "e063bb30351dac572bac24ed43d304b2",
