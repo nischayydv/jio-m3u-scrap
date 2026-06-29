@@ -1,22 +1,4 @@
 {
-  "33": {
-    "kid": "{\"keys\"",
-    "key": "[{\"kty\"",
-    "url": "https://ottlive.dishhome.com.np/protected/_ATOzZkB0RDJ74Ryniqo/dash/manifest.mpd",
-    "group_title": "FIFA WC 2026",
-    "tvg_logo": "https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png",
-    "channel_name": " Himalaya HD",
-    "user_agent": "Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)"
-  },
-  "89": {
-    "kid": "{\"keys\"",
-    "key": "[{\"kty\"",
-    "url": "https://ottlive.dishhome.com.np/protected/GgTOzZkB0RDJ74Ryniuo/dash/manifest.mpd",
-    "group_title": "FIFA WC 2026",
-    "tvg_logo": "https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png",
-    "channel_name": " Himalayan Premium HD",
-    "user_agent": "Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)"
-  },
   "143": {
     "kid": "https",
     "key": "//onekey.virey40690.workers.dev/key/143",
@@ -241,15 +223,6 @@
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ET_Now.png",
     "channel_name": "ET Now",
     "user_agent": "plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0"
-  },
-  "230": {
-    "kid": "{\"keys\"",
-    "key": "[{\"kty\"",
-    "url": "https://ottlive.dishhome.com.np/protected/jATOzZkB0RDJ74Ryniuo/dash/manifest.mpd",
-    "group_title": "FIFA WC 2026",
-    "tvg_logo": "https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png",
-    "channel_name": " DD Sports 1.0",
-    "user_agent": "Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)"
   },
   "231": {
     "kid": "https",
