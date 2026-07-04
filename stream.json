@@ -11086,5 +11086,14 @@
     "tvg_logo": "https://sund-images.sunnxt.com/194410/640x360_SunMusic_194410_d4d08876-9d23-432c-aab4-b5c70c58aaac.jpg",
     "channel_name": "Sun Music",
     "user_agent": null
+  },
+  "1540072901": {
+    "kid": "2c338a117d434ce4bbe3569231af90f1",
+    "key": "a9633d901ee8a3f4f58ac314b5c5f4fb",
+    "url": "http://live11p.hotstar.com/cmaf/live/2108386/inallow-indveng-2026/eng/1540072901/15mindvrm019d7a56f6b69447b3996c55585d254b8104july2026/master_a_stereo.m3u8?hdnea=exp=1783180385~acl=/cmaf/live/2108386/inallow-indveng-2026/eng/1540072901/15mindvrm019d7a56f6b69447b3996c55585d254b8104july2026/master_a*~data=ip=yKjP729RbjHdfVWOgybK9U-userid=ILtzhak2uDYZtSK1BgvaJ2c11qQUCpEwQEZXw0aunxTA-did=jb33BfXpPG3GkqMp4Fbc2GKej5b5wVkRXyrEl6yiijCX-cc=in-de=5-pl=androidtv-ap=26.03.30.2-ut=paid-ttl=1800-type=paid-raf=1783179185-~hmac=899278a113ac1a3eed08bd340f7128cf471f60a69d8a94a5992e8c3677473a35",
+    "group_title": "IND VS AFG",
+    "tvg_logo": "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/3190/1783173443190-h",
+    "channel_name": " ENGLISH 4K HDR AdsFree",
+    "user_agent": null
   }
 }
