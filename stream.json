@@ -20,7 +20,7 @@
   "146": {
     "kid": "https",
     "key": "//onekey.virey40690.workers.dev/key/146",
-    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/History_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1789940510~exp=1789944110~acl=/bpk-tv/History_HD_BTS/WDVLive/*~hmac=dd58e4a5cbf1db1c5aa7330388b23fc1b8e5514053cc0502e66356b20489d70d",
+    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/History_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1789947790~exp=1789951390~acl=/bpk-tv/History_HD_BTS/WDVLive/*~hmac=bd9cbd807dbcfb2d0bf4f9d067c3e4fa42271dcf07c0b94a5fe2a5110970bed2",
     "group_title": "JIO ⭕|English",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/History_HD.png",
     "channel_name": "History TV18 HD",
@@ -65,7 +65,7 @@
   "164": {
     "kid": "https",
     "key": "//onekey.virey40690.workers.dev/key/164",
-    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Travel_XP_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1789940510~exp=1789944110~acl=/bpk-tv/Travel_XP_HD_BTS/WDVLive/*~hmac=ba1cabefc4044129ae791b82046ce5ecf8abba61d032b33d5efb205d88f3017e",
+    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Travel_XP_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1789947792~exp=1789951392~acl=/bpk-tv/Travel_XP_HD_BTS/WDVLive/*~hmac=5555e125269eb2c770bf02298b9975ba0aaa7e19d13b86f4f8015420c58c3ce3",
     "group_title": "JIO ⭕|English",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP_HD.png",
     "channel_name": "Travelxp HD",
@@ -92,7 +92,7 @@
   "167": {
     "kid": "https",
     "key": "//onekey.virey40690.workers.dev/key/167",
-    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeTVHD_BTS/WDVLive/index.mpd?__hdnea__=st=1789942360~exp=1789945960~acl=/bpk-tv/ZeeTVHD_BTS/WDVLive/*~hmac=31b266bb2f60d934a674e7ef7dfbf0bf4f6c4024e3cd9fad852a65bdc373e482",
+    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeTVHD_BTS/WDVLive/index.mpd?__hdnea__=st=1789949587~exp=1789953187~acl=/bpk-tv/ZeeTVHD_BTS/WDVLive/*~hmac=5d2527fc98e9eb9778a6862a67bf90f7914a90f8e8514ac2d1a95719f1543e9f",
     "group_title": "JIO ⭕|Entertainment",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeTVHD.png",
     "channel_name": "Zee TV HD",
@@ -542,7 +542,7 @@
   "415": {
     "kid": "https",
     "key": "//onekey.virey40690.workers.dev/key/415",
-    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeAnmolCinema_BTS/WDVLive/index.mpd?__hdnea__=st=1789943290~exp=1789946890~acl=/bpk-tv/ZeeAnmolCinema_BTS/WDVLive/*~hmac=00457d2abeab5107d210b4444e23b2061d18b302104adfbd40a35ee35b606aa5",
+    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeAnmolCinema_BTS/WDVLive/index.mpd?__hdnea__=st=1789946888~exp=1789950488~acl=/bpk-tv/ZeeAnmolCinema_BTS/WDVLive/*~hmac=be52e83891f2ca0dc752cb2a61f7a1d1cf81a01f188aab7ec0ab0d46cafbb9ad",
     "group_title": "JIO ⭕|Movies",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeAnmolCinema.png",
     "channel_name": "Zee Anmol Cinema",
@@ -722,7 +722,7 @@
   "472": {
     "kid": "https",
     "key": "//onekey.virey40690.workers.dev/key/472",
-    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/AndTVHD_BTS/WDVLive/index.mpd?__hdnea__=st=1789941192~exp=1789944792~acl=/bpk-tv/AndTVHD_BTS/WDVLive/*~hmac=d47dc70536aae114a2a4bb1d8879ef6c2b6a0874cbb8b3cc3ee3b7308c081d35",
+    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/AndTVHD_BTS/WDVLive/index.mpd?__hdnea__=st=1789948390~exp=1789951990~acl=/bpk-tv/AndTVHD_BTS/WDVLive/*~hmac=4ca8dd2dca69e96b409173039360ed957b43b046b50b25033b7d2e506736f64d",
     "group_title": "JIO ⭕|Entertainment",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/AndTVHD.png",
     "channel_name": "And TV HD",
@@ -1280,7 +1280,7 @@
   "562": {
     "kid": "https",
     "key": "//onekey.virey40690.workers.dev/key/562",
-    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Travel_XP_BTS/WDVLive/index.mpd?__hdnea__=st=1789940199~exp=1789943799~acl=/bpk-tv/Travel_XP_BTS/WDVLive/*~hmac=37b2ca8f1bda80983ad87c3f5d486437d5f5dcc6fb2f99f031c048ef87dc8eda",
+    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Travel_XP_BTS/WDVLive/index.mpd?__hdnea__=st=1789947492~exp=1789951092~acl=/bpk-tv/Travel_XP_BTS/WDVLive/*~hmac=316078b7afb9351af861ebf58d5932e266938e83ac1d59c70d4fbca11cbff665",
     "group_title": "JIO ⭕|Lifestyle",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP.png",
     "channel_name": "Travelxp HD Hindi",
@@ -3026,7 +3026,7 @@
   "821": {
     "kid": "https",
     "key": "//onekey.virey40690.workers.dev/key/821",
-    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/SonyBBCEarthHin_BTS/WDVLive/index.mpd?__hdnea__=st=1789940191~exp=1789943791~acl=/bpk-tv/SonyBBCEarthHin_BTS/WDVLive/*~hmac=b4a03fcd2d560581d018a52189b00bcf041a84669fe573f7b89bd20675687080",
+    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/SonyBBCEarthHin_BTS/WDVLive/index.mpd?__hdnea__=st=1789947194~exp=1789950794~acl=/bpk-tv/SonyBBCEarthHin_BTS/WDVLive/*~hmac=29d9b3ef1866e38c0ac6c7d483cd270c4e041d6d26bfce888c6844b45b4e9f67",
     "group_title": "JIO ⭕|Infotainment",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyBBCEarthHin.png",
     "channel_name": "Sony BBC Earth HD",
@@ -4241,7 +4241,7 @@
   "1108": {
     "kid": "https",
     "key": "//onekey.virey40690.workers.dev/key/1108",
-    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/index.mpd?__hdnea__=st=1789927218~exp=1789948818~acl=/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/*~hmac=c0406ded965ed6551270cbad8703a980cd866ea27ddf065aa54ca2ec17ab3f81",
+    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/index.mpd?__hdnea__=st=1789948832~exp=1789970432~acl=/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/*~hmac=d03eb8e4610ad5ae4b3196d8281ea9f36e27d27661d5c8f5bc19534f648db991",
     "group_title": "JIO ⭕|Sports",
     "tvg_logo": "https://img.media.jio.com/tvpimages/5/6/301982_1749665314605_l_medium.jpg",
     "channel_name": "Star Sports 1 Hindi HD",
@@ -5096,7 +5096,7 @@
   "1332": {
     "kid": "https",
     "key": "//onekey.virey40690.workers.dev/key/1332",
-    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Nat_Geo_Wild_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1789942677~exp=1789946277~acl=/bpk-tv/Nat_Geo_Wild_HD_BTS/WDVLive/*~hmac=d9811421619b49090fa0e207d7b1aeec17ec4f816e99b5812b4df35961faac91",
+    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Nat_Geo_Wild_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1789949787~exp=1789953387~acl=/bpk-tv/Nat_Geo_Wild_HD_BTS/WDVLive/*~hmac=e31a891b20d3efcd0b570ebd73b8b17c2d5f8b780046f2b3821b36eaf6a869dd",
     "group_title": "JIO ⭕|English",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Nat_Geo_Wild_HD.png",
     "channel_name": "Nat Geo Wild HD",
@@ -5105,7 +5105,7 @@
   "1335": {
     "kid": "https",
     "key": "//onekey.virey40690.workers.dev/key/1335",
-    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/National_Geographic_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1789941198~exp=1789944798~acl=/bpk-tv/National_Geographic_HD_BTS/WDVLive/*~hmac=68aa873f7b461fc7a444188bb39b7606254f142092928b59da6e4b7b2584f458",
+    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/National_Geographic_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1789948396~exp=1789951996~acl=/bpk-tv/National_Geographic_HD_BTS/WDVLive/*~hmac=358bd14534376ae74662aa5864ea11643a4795c2c5e752c724139048136f66d2",
     "group_title": "JIO ⭕|English",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/National_Geographic_HD.png",
     "channel_name": "National Geographic HD",
@@ -6185,7 +6185,7 @@
   "1668": {
     "kid": "https",
     "key": "//onekey.virey40690.workers.dev/key/1668",
-    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/AndXploreHD_BTS/WDVLive/index.mpd?__hdnea__=st=1789940898~exp=1789944498~acl=/bpk-tv/AndXploreHD_BTS/WDVLive/*~hmac=bf19a34d86327603ce7048689de9ae1a8bf39e558f2b272d982d8035875c9406",
+    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/AndXploreHD_BTS/WDVLive/index.mpd?__hdnea__=st=1789948100~exp=1789951700~acl=/bpk-tv/AndXploreHD_BTS/WDVLive/*~hmac=1e7694b5c9b6894dbfe28efc672a9682d4e7b1314ad47599dbd4305bcee41d5b",
     "group_title": "JIO ⭕|Movies",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/AndXploreHD.png",
     "channel_name": "And Xplor HD",
@@ -8327,7 +8327,7 @@
   "3096": {
     "kid": "https",
     "key": "//onekey.virey40690.workers.dev/key/3096",
-    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Gold_2_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1789941503~exp=1789945103~acl=/bpk-tv/Star_Gold_2_HD_BTS/WDVLive/*~hmac=363d824bc9ac3d3a1b77af4bcf24e7e75c00316b3f89d2ecf613a31d6c291d38",
+    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Gold_2_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1789948703~exp=1789952303~acl=/bpk-tv/Star_Gold_2_HD_BTS/WDVLive/*~hmac=e4fab4ee5f8429b3f865de6882d599ecd42242473b52d355dcb490057af47a2e",
     "group_title": "JIO ⭕|Movies",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_2_HD.png",
     "channel_name": "Star Gold 2 HD",
